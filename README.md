@@ -4,6 +4,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Build Status](https://github.com/rajveer100704/constraint-aware-food-search/actions/workflows/ci.yml/badge.svg)](https://github.com/rajveer100704/constraint-aware-food-search/actions)
+![Release](https://img.shields.io/github/v/release/rajveer100704/constraint-aware-food-search)
 
 > A constraint-aware hybrid food search engine that combines lexical retrieval, dense vector retrieval, structured query parsing, and learning-to-rank over a multi-entity restaurant and dish catalog.
 
