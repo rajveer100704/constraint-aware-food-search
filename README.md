@@ -7,8 +7,6 @@
 
 > A constraint-aware hybrid food search engine that combines lexical retrieval, dense vector retrieval, structured query parsing, and learning-to-rank over a multi-entity restaurant and dish catalog.
 
-> **Topic Tags**: `search` · `information-retrieval` · `dense-retrieval` · `bm25` · `learning-to-rank` · `sentence-transformers` · `fastapi` · `machine-learning` · `recommendation-systems` · `retrieval-augmented`
-
 ---
 
 ## 📌 Overview
@@ -17,7 +15,7 @@ This project explores **constraint-aware food search** by combining lexical retr
 
 > **Scope Note**: This repository focuses strictly on search and ranking; recommendation system features (such as user collaborative filtering and personalization vectors) are discussed only as future production extension paths.
 
-It integrates Sarthak Rastogi's open-source **`search-expert`** PyPI package (`from search_expert import SearchExpert`) paired with a fast `RegexFallbackParser` circuit breaker. The engine indexes **Restaurant metadata and Menu Items / Dishes**, retrieves candidates via **Dense Vector Embeddings (`sentence-transformers/all-MiniLM-L6-v2`) + BM25 Lexical Search** using **Reciprocal Rank Fusion (RRF)**, and ranks candidates using a **Gradient Boosted Decision Tree (`HistGradientBoostingRegressor`)** Learning-to-Rank model trained on **versioned query click logs with position bias** (`data/query_click_logs_v1.csv`, `SEED=42`).
+It integrates open-source **`search-expert`** PyPI package (`from search_expert import SearchExpert`) paired with a fast `RegexFallbackParser` circuit breaker. The engine indexes **Restaurant metadata and Menu Items / Dishes**, retrieves candidates via **Dense Vector Embeddings (`sentence-transformers/all-MiniLM-L6-v2`) + BM25 Lexical Search** using **Reciprocal Rank Fusion (RRF)**, and ranks candidates using a **Gradient Boosted Decision Tree (`HistGradientBoostingRegressor`)** Learning-to-Rank model trained on **versioned query click logs with position bias** (`data/query_click_logs_v1.csv`, `SEED=42`).
 
 ---
 
