@@ -1,0 +1,26 @@
+{
+  "version": "3.2.0",
+  "total_items": 8,
+  "total_cuisines": 15,
+  "total_dishes": 16,
+  "cuisine_median_prices": {
+    "north indian": 220.0,
+    "thalis": 220.0,
+    "south indian": 170.0,
+    "pizza": 399.0,
+    "italian": 399.0,
+    "biryani": 315.0,
+    "mughlai": 350.0,
+    "hyderabadi": 280.0,
+    "chinese": 260.0,
+    "asian": 260.0,
+    "american": 180.0,
+    "fast food": 180.0,
+    "dosa": 120.0,
+    "desserts": 150.0,
+    "bengali": 150.0
+  },
+  "supported_cities": [
+    "bangalore"
+  ]
+}

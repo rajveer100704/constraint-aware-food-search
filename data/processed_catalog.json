@@ -1,0 +1,376 @@
+[
+  {
+    "id": 1,
+    "name": "Green Leaf",
+    "city": "bangalore",
+    "area": "koramangala",
+    "cuisines": [
+      "north indian",
+      "thalis",
+      "south indian"
+    ],
+    "price": 220.0,
+    "rating": 4.6,
+    "veg": true,
+    "popularity": 0.9,
+    "delivery_time_mins": 25,
+    "tags": [
+      "thali",
+      "north indian",
+      "paneer"
+    ],
+    "menu_items": [
+      {
+        "id": 101,
+        "name": "Special Veg Thali",
+        "price": 220.0,
+        "veg": true,
+        "cuisine": "thalis",
+        "category": "thalis",
+        "tags": [
+          "thali",
+          "paneer",
+          "roti",
+          "dal"
+        ]
+      },
+      {
+        "id": 102,
+        "name": "Paneer Butter Masala",
+        "price": 190.0,
+        "veg": true,
+        "cuisine": "north indian",
+        "category": "main course",
+        "tags": [
+          "paneer",
+          "curry"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pizza Corner",
+    "city": "bangalore",
+    "area": "indiranagar",
+    "cuisines": [
+      "pizza",
+      "italian"
+    ],
+    "price": 399.0,
+    "rating": 4.2,
+    "veg": false,
+    "popularity": 0.7,
+    "delivery_time_mins": 35,
+    "tags": [
+      "pizza",
+      "pasta",
+      "cheese"
+    ],
+    "menu_items": [
+      {
+        "id": 201,
+        "name": "Chicken Tikka Pizza",
+        "price": 420.0,
+        "veg": false,
+        "cuisine": "pizza",
+        "category": "pizzas",
+        "tags": [
+          "chicken",
+          "pizza",
+          "cheese"
+        ]
+      },
+      {
+        "id": 202,
+        "name": "Margherita Pizza",
+        "price": 340.0,
+        "veg": true,
+        "cuisine": "pizza",
+        "category": "pizzas",
+        "tags": [
+          "cheese",
+          "pizza",
+          "tomato"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Spice Garden",
+    "city": "bangalore",
+    "area": "hsr layout",
+    "cuisines": [
+      "biryani",
+      "mughlai"
+    ],
+    "price": 350.0,
+    "rating": 4.5,
+    "veg": false,
+    "popularity": 0.85,
+    "delivery_time_mins": 30,
+    "tags": [
+      "biryani",
+      "chicken",
+      "spicy"
+    ],
+    "menu_items": [
+      {
+        "id": 301,
+        "name": "Hyderabadi Chicken Biryani",
+        "price": 350.0,
+        "veg": false,
+        "cuisine": "biryani",
+        "category": "biryani",
+        "tags": [
+          "chicken",
+          "biryani",
+          "spicy"
+        ]
+      },
+      {
+        "id": 302,
+        "name": "Chicken Tikka Kebab",
+        "price": 280.0,
+        "veg": false,
+        "cuisine": "mughlai",
+        "category": "starters",
+        "tags": [
+          "kebab",
+          "chicken"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Royal Biryani",
+    "city": "bangalore",
+    "area": "koramangala",
+    "cuisines": [
+      "biryani",
+      "hyderabadi"
+    ],
+    "price": 280.0,
+    "rating": 4.3,
+    "veg": false,
+    "popularity": 0.8,
+    "delivery_time_mins": 28,
+    "tags": [
+      "biryani",
+      "mutton",
+      "kebab"
+    ],
+    "menu_items": [
+      {
+        "id": 401,
+        "name": "Mutton Dum Biryani",
+        "price": 320.0,
+        "veg": false,
+        "cuisine": "biryani",
+        "category": "biryani",
+        "tags": [
+          "mutton",
+          "biryani"
+        ]
+      },
+      {
+        "id": 402,
+        "name": "Chicken Dum Biryani",
+        "price": 280.0,
+        "veg": false,
+        "cuisine": "biryani",
+        "category": "biryani",
+        "tags": [
+          "chicken",
+          "biryani"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Dragon Express",
+    "city": "bangalore",
+    "area": "indiranagar",
+    "cuisines": [
+      "chinese",
+      "asian"
+    ],
+    "price": 260.0,
+    "rating": 4.1,
+    "veg": false,
+    "popularity": 0.75,
+    "delivery_time_mins": 32,
+    "tags": [
+      "noodles",
+      "fried rice",
+      "dim sum"
+    ],
+    "menu_items": [
+      {
+        "id": 501,
+        "name": "Schezwan Hakka Noodles",
+        "price": 240.0,
+        "veg": true,
+        "cuisine": "chinese",
+        "category": "noodles",
+        "tags": [
+          "noodles",
+          "spicy"
+        ]
+      },
+      {
+        "id": 502,
+        "name": "Chicken Fried Rice",
+        "price": 260.0,
+        "veg": false,
+        "cuisine": "chinese",
+        "category": "rice",
+        "tags": [
+          "chicken",
+          "rice"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Burger House",
+    "city": "bangalore",
+    "area": "jayanagar",
+    "cuisines": [
+      "american",
+      "fast food"
+    ],
+    "price": 180.0,
+    "rating": 4.4,
+    "veg": true,
+    "popularity": 0.88,
+    "delivery_time_mins": 20,
+    "tags": [
+      "burger",
+      "fries",
+      "shake"
+    ],
+    "menu_items": [
+      {
+        "id": 601,
+        "name": "Veg Cheese Burger",
+        "price": 180.0,
+        "veg": true,
+        "cuisine": "american",
+        "category": "burgers",
+        "tags": [
+          "burger",
+          "cheese"
+        ]
+      },
+      {
+        "id": 602,
+        "name": "Peri Peri French Fries",
+        "price": 120.0,
+        "veg": true,
+        "cuisine": "fast food",
+        "category": "sides",
+        "tags": [
+          "fries",
+          "spicy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "South Tiffin House",
+    "city": "bangalore",
+    "area": "btm layout",
+    "cuisines": [
+      "south indian",
+      "dosa"
+    ],
+    "price": 120.0,
+    "rating": 4.7,
+    "veg": true,
+    "popularity": 0.95,
+    "delivery_time_mins": 18,
+    "tags": [
+      "dosa",
+      "idli",
+      "filter coffee"
+    ],
+    "menu_items": [
+      {
+        "id": 701,
+        "name": "Masala Dosa",
+        "price": 110.0,
+        "veg": true,
+        "cuisine": "south indian",
+        "category": "tiffin",
+        "tags": [
+          "dosa",
+          "potato"
+        ]
+      },
+      {
+        "id": 702,
+        "name": "Steamed Idli Sambar",
+        "price": 80.0,
+        "veg": true,
+        "cuisine": "south indian",
+        "category": "tiffin",
+        "tags": [
+          "idli",
+          "sambar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Sweet Bengal",
+    "city": "bangalore",
+    "area": "whitefield",
+    "cuisines": [
+      "desserts",
+      "bengali"
+    ],
+    "price": 150.0,
+    "rating": 4.6,
+    "veg": true,
+    "popularity": 0.65,
+    "delivery_time_mins": 22,
+    "tags": [
+      "sweets",
+      "rasgulla",
+      "mishti doi"
+    ],
+    "menu_items": [
+      {
+        "id": 801,
+        "name": "Keshari Rasgulla",
+        "price": 140.0,
+        "veg": true,
+        "cuisine": "desserts",
+        "category": "sweets",
+        "tags": [
+          "sweet",
+          "rasgulla"
+        ]
+      },
+      {
+        "id": 802,
+        "name": "Mishti Doi",
+        "price": 120.0,
+        "veg": true,
+        "cuisine": "bengali",
+        "category": "desserts",
+        "tags": [
+          "sweet",
+          "curd"
+        ]
+      }
+    ]
+  }
+]

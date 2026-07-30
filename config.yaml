@@ -1,0 +1,24 @@
+# Configuration file for Swiggy Hybrid Search & Recommendation Engine
+
+catalog:
+  default_path: "data/processed_catalog.json"
+  eval_set_path: "data/evaluation_set.json"
+
+models:
+  dense_model_name: "sentence-transformers/all-MiniLM-L6-v2"
+  slm_model_name: "sarthakrastogi/search-expert-json-0.8b"
+  ltr_model_path: "models/ltr_model.pkl"
+
+ranking_weights:
+  bm25_weight: 0.35
+  dense_weight: 0.25
+  rating_weight: 0.15
+  price_weight: 0.10
+  popularity_weight: 0.08
+  cuisine_weight: 0.07
+
+rrf:
+  k_constant: 60
+
+cache:
+  enable_memoization: true

@@ -1,0 +1,15 @@
+{
+  "recall_at_5": 0.7425,
+  "precision_at_5": 0.1589,
+  "mrr": 0.666,
+  "ndcg_at_5": 0.6853,
+  "constraint_satisfaction": 1.0,
+  "avg_latency_ms": 60.97,
+  "p50_latency_ms": 22.45,
+  "p90_latency_ms": 24.95,
+  "p95_latency_ms": 26.02,
+  "p99_latency_ms": 29.02,
+  "filter_failures": 47,
+  "ranking_failures": 5,
+  "total_queries": 200
+}

@@ -1,0 +1,15 @@
+{
+  "recall_at_5": 0.9666666666666667,
+  "precision_at_5": 0.3077777777777778,
+  "mrr": 0.9333333333333333,
+  "ndcg_at_5": 0.9250004466605583,
+  "filter_failures": 1,
+  "ranking_failures": 0,
+  "diagnostics": [
+    {
+      "query": "veg food under 150",
+      "missed_id": 8,
+      "failure_type": "Excluded by hard filter constraints"
+    }
+  ]
+}

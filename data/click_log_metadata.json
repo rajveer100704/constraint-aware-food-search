@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "random_seed": 42,
+  "total_logs": 907,
+  "user_count": 50,
+  "abandonment_rate": 0.1,
+  "position_bias_formula": "P(click) ~ 1 / rank^0.85",
+  "output_file": "data/query_click_logs_v1.csv"
+}

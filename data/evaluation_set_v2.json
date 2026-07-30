@@ -1,0 +1,1809 @@
+{
+  "version": "2.0",
+  "total_queries": 200,
+  "random_seed": 42,
+  "queries": [
+    {
+      "id": 1,
+      "query": "paneer butter masala",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: paneer butter masala"
+    },
+    {
+      "id": 2,
+      "query": "chicken tikka pizza",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: chicken tikka pizza"
+    },
+    {
+      "id": 3,
+      "query": "hyderabadi chicken biryani",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: hyderabadi chicken biryani"
+    },
+    {
+      "id": 4,
+      "query": "mutton dum biryani",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: mutton dum biryani"
+    },
+    {
+      "id": 5,
+      "query": "schezwan hakka noodles",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: schezwan hakka noodles"
+    },
+    {
+      "id": 6,
+      "query": "veg cheese burger",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: veg cheese burger"
+    },
+    {
+      "id": 7,
+      "query": "masala dosa",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: masala dosa"
+    },
+    {
+      "id": 8,
+      "query": "keshari rasgulla",
+      "relevant_ids": [
+        8
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: keshari rasgulla"
+    },
+    {
+      "id": 9,
+      "query": "chicken dum biryani",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: chicken dum biryani"
+    },
+    {
+      "id": 10,
+      "query": "steamed idli sambar",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: steamed idli sambar"
+    },
+    {
+      "id": 11,
+      "query": "chicken fried rice",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: chicken fried rice"
+    },
+    {
+      "id": 12,
+      "query": "margherita pizza",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: margherita pizza"
+    },
+    {
+      "id": 13,
+      "query": "peri peri french fries",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: peri peri french fries"
+    },
+    {
+      "id": 14,
+      "query": "mishti doi",
+      "relevant_ids": [
+        8
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: mishti doi"
+    },
+    {
+      "id": 15,
+      "query": "dal makhani",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: dal makhani"
+    },
+    {
+      "id": 16,
+      "query": "garlic naan",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: garlic naan"
+    },
+    {
+      "id": 17,
+      "query": "tandoori chicken",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: tandoori chicken"
+    },
+    {
+      "id": 18,
+      "query": "spring rolls",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: spring rolls"
+    },
+    {
+      "id": 19,
+      "query": "gulab jamun",
+      "relevant_ids": [
+        8
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: gulab jamun"
+    },
+    {
+      "id": 20,
+      "query": "cold coffee",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Dish Names",
+      "description": "Exact dish lookup: cold coffee"
+    },
+    {
+      "id": 21,
+      "query": "veg food under 150",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: veg food <= 150"
+    },
+    {
+      "id": 22,
+      "query": "biryani under 150",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: biryani <= 150"
+    },
+    {
+      "id": 23,
+      "query": "pizza under 150",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: pizza <= 150"
+    },
+    {
+      "id": 24,
+      "query": "chinese under 150",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: chinese <= 150"
+    },
+    {
+      "id": 25,
+      "query": "south indian under 150",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: south indian <= 150"
+    },
+    {
+      "id": 26,
+      "query": "veg food under 200",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: veg food <= 200"
+    },
+    {
+      "id": 27,
+      "query": "biryani under 200",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: biryani <= 200"
+    },
+    {
+      "id": 28,
+      "query": "pizza under 200",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: pizza <= 200"
+    },
+    {
+      "id": 29,
+      "query": "chinese under 200",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: chinese <= 200"
+    },
+    {
+      "id": 30,
+      "query": "south indian under 200",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: south indian <= 200"
+    },
+    {
+      "id": 31,
+      "query": "veg food under 250",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: veg food <= 250"
+    },
+    {
+      "id": 32,
+      "query": "biryani under 250",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: biryani <= 250"
+    },
+    {
+      "id": 33,
+      "query": "pizza under 250",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: pizza <= 250"
+    },
+    {
+      "id": 34,
+      "query": "chinese under 250",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: chinese <= 250"
+    },
+    {
+      "id": 35,
+      "query": "south indian under 250",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: south indian <= 250"
+    },
+    {
+      "id": 36,
+      "query": "veg food under 300",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: veg food <= 300"
+    },
+    {
+      "id": 37,
+      "query": "biryani under 300",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: biryani <= 300"
+    },
+    {
+      "id": 38,
+      "query": "pizza under 300",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: pizza <= 300"
+    },
+    {
+      "id": 39,
+      "query": "chinese under 300",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: chinese <= 300"
+    },
+    {
+      "id": 40,
+      "query": "south indian under 300",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: south indian <= 300"
+    },
+    {
+      "id": 41,
+      "query": "veg food under 350",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: veg food <= 350"
+    },
+    {
+      "id": 42,
+      "query": "biryani under 350",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: biryani <= 350"
+    },
+    {
+      "id": 43,
+      "query": "pizza under 350",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: pizza <= 350"
+    },
+    {
+      "id": 44,
+      "query": "chinese under 350",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: chinese <= 350"
+    },
+    {
+      "id": 45,
+      "query": "south indian under 350",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: south indian <= 350"
+    },
+    {
+      "id": 46,
+      "query": "veg food under 400",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: veg food <= 400"
+    },
+    {
+      "id": 47,
+      "query": "biryani under 400",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: biryani <= 400"
+    },
+    {
+      "id": 48,
+      "query": "pizza under 400",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: pizza <= 400"
+    },
+    {
+      "id": 49,
+      "query": "chinese under 400",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: chinese <= 400"
+    },
+    {
+      "id": 50,
+      "query": "south indian under 400",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: south indian <= 400"
+    },
+    {
+      "id": 51,
+      "query": "veg food under 500",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: veg food <= 500"
+    },
+    {
+      "id": 52,
+      "query": "biryani under 500",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: biryani <= 500"
+    },
+    {
+      "id": 53,
+      "query": "pizza under 500",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: pizza <= 500"
+    },
+    {
+      "id": 54,
+      "query": "chinese under 500",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: chinese <= 500"
+    },
+    {
+      "id": 55,
+      "query": "south indian under 500",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Price Limits",
+      "description": "Price constraint: south indian <= 500"
+    },
+    {
+      "id": 56,
+      "query": "biryani in Koramangala",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: biryani in Koramangala"
+    },
+    {
+      "id": 57,
+      "query": "dosa in Koramangala",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: dosa in Koramangala"
+    },
+    {
+      "id": 58,
+      "query": "burger in Koramangala",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: burger in Koramangala"
+    },
+    {
+      "id": 59,
+      "query": "chinese in Koramangala",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: chinese in Koramangala"
+    },
+    {
+      "id": 60,
+      "query": "biryani in HSR Layout",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: biryani in HSR Layout"
+    },
+    {
+      "id": 61,
+      "query": "dosa in HSR Layout",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: dosa in HSR Layout"
+    },
+    {
+      "id": 62,
+      "query": "burger in HSR Layout",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: burger in HSR Layout"
+    },
+    {
+      "id": 63,
+      "query": "chinese in HSR Layout",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: chinese in HSR Layout"
+    },
+    {
+      "id": 64,
+      "query": "biryani in Indiranagar",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: biryani in Indiranagar"
+    },
+    {
+      "id": 65,
+      "query": "dosa in Indiranagar",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: dosa in Indiranagar"
+    },
+    {
+      "id": 66,
+      "query": "burger in Indiranagar",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: burger in Indiranagar"
+    },
+    {
+      "id": 67,
+      "query": "chinese in Indiranagar",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: chinese in Indiranagar"
+    },
+    {
+      "id": 68,
+      "query": "biryani in Jayanagar",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: biryani in Jayanagar"
+    },
+    {
+      "id": 69,
+      "query": "dosa in Jayanagar",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: dosa in Jayanagar"
+    },
+    {
+      "id": 70,
+      "query": "burger in Jayanagar",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: burger in Jayanagar"
+    },
+    {
+      "id": 71,
+      "query": "chinese in Jayanagar",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: chinese in Jayanagar"
+    },
+    {
+      "id": 72,
+      "query": "biryani in BTM Layout",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: biryani in BTM Layout"
+    },
+    {
+      "id": 73,
+      "query": "dosa in BTM Layout",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: dosa in BTM Layout"
+    },
+    {
+      "id": 74,
+      "query": "burger in BTM Layout",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: burger in BTM Layout"
+    },
+    {
+      "id": 75,
+      "query": "chinese in BTM Layout",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: chinese in BTM Layout"
+    },
+    {
+      "id": 76,
+      "query": "biryani in Whitefield",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: biryani in Whitefield"
+    },
+    {
+      "id": 77,
+      "query": "dosa in Whitefield",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: dosa in Whitefield"
+    },
+    {
+      "id": 78,
+      "query": "burger in Whitefield",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: burger in Whitefield"
+    },
+    {
+      "id": 79,
+      "query": "chinese in Whitefield",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Location",
+      "description": "Geographic area filter: chinese in Whitefield"
+    },
+    {
+      "id": 80,
+      "query": "North Indian food",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: North Indian"
+    },
+    {
+      "id": 81,
+      "query": "North Indian restaurant",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: North Indian"
+    },
+    {
+      "id": 82,
+      "query": "North Indian dishes",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: North Indian"
+    },
+    {
+      "id": 83,
+      "query": "South Indian food",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: South Indian"
+    },
+    {
+      "id": 84,
+      "query": "South Indian restaurant",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: South Indian"
+    },
+    {
+      "id": 85,
+      "query": "South Indian dishes",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: South Indian"
+    },
+    {
+      "id": 86,
+      "query": "Chinese food",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: Chinese"
+    },
+    {
+      "id": 87,
+      "query": "Chinese restaurant",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: Chinese"
+    },
+    {
+      "id": 88,
+      "query": "Chinese dishes",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: Chinese"
+    },
+    {
+      "id": 89,
+      "query": "Italian food",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: Italian"
+    },
+    {
+      "id": 90,
+      "query": "Italian restaurant",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: Italian"
+    },
+    {
+      "id": 91,
+      "query": "Italian dishes",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: Italian"
+    },
+    {
+      "id": 92,
+      "query": "Fast Food food",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: Fast Food"
+    },
+    {
+      "id": 93,
+      "query": "Fast Food restaurant",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: Fast Food"
+    },
+    {
+      "id": 94,
+      "query": "Fast Food dishes",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: Fast Food"
+    },
+    {
+      "id": 95,
+      "query": "Desserts food",
+      "relevant_ids": [
+        8
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: Desserts"
+    },
+    {
+      "id": 96,
+      "query": "Desserts restaurant",
+      "relevant_ids": [
+        8
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: Desserts"
+    },
+    {
+      "id": 97,
+      "query": "Desserts dishes",
+      "relevant_ids": [
+        8
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: Desserts"
+    },
+    {
+      "id": 98,
+      "query": "Biryani food",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: Biryani"
+    },
+    {
+      "id": 99,
+      "query": "Biryani restaurant",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: Biryani"
+    },
+    {
+      "id": 100,
+      "query": "Biryani dishes",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Cuisine",
+      "description": "Cuisine tag match: Biryani"
+    },
+    {
+      "id": 101,
+      "query": "pure veg biryani in koramangala under 200",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + biryani in koramangala under 200"
+    },
+    {
+      "id": 102,
+      "query": "pure veg pizza in koramangala under 200",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + pizza in koramangala under 200"
+    },
+    {
+      "id": 103,
+      "query": "pure veg thali in koramangala under 200",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + thali in koramangala under 200"
+    },
+    {
+      "id": 104,
+      "query": "pure veg biryani in hsr layout under 200",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + biryani in hsr layout under 200"
+    },
+    {
+      "id": 105,
+      "query": "pure veg pizza in hsr layout under 200",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + pizza in hsr layout under 200"
+    },
+    {
+      "id": 106,
+      "query": "pure veg thali in hsr layout under 200",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + thali in hsr layout under 200"
+    },
+    {
+      "id": 107,
+      "query": "pure veg biryani in indiranagar under 200",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + biryani in indiranagar under 200"
+    },
+    {
+      "id": 108,
+      "query": "pure veg pizza in indiranagar under 200",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + pizza in indiranagar under 200"
+    },
+    {
+      "id": 109,
+      "query": "pure veg thali in indiranagar under 200",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + thali in indiranagar under 200"
+    },
+    {
+      "id": 110,
+      "query": "pure veg biryani in koramangala under 250",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + biryani in koramangala under 250"
+    },
+    {
+      "id": 111,
+      "query": "pure veg pizza in koramangala under 250",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + pizza in koramangala under 250"
+    },
+    {
+      "id": 112,
+      "query": "pure veg thali in koramangala under 250",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + thali in koramangala under 250"
+    },
+    {
+      "id": 113,
+      "query": "pure veg biryani in hsr layout under 250",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + biryani in hsr layout under 250"
+    },
+    {
+      "id": 114,
+      "query": "pure veg pizza in hsr layout under 250",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + pizza in hsr layout under 250"
+    },
+    {
+      "id": 115,
+      "query": "pure veg thali in hsr layout under 250",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + thali in hsr layout under 250"
+    },
+    {
+      "id": 116,
+      "query": "pure veg biryani in indiranagar under 250",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + biryani in indiranagar under 250"
+    },
+    {
+      "id": 117,
+      "query": "pure veg pizza in indiranagar under 250",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + pizza in indiranagar under 250"
+    },
+    {
+      "id": 118,
+      "query": "pure veg thali in indiranagar under 250",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + thali in indiranagar under 250"
+    },
+    {
+      "id": 119,
+      "query": "pure veg biryani in koramangala under 300",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + biryani in koramangala under 300"
+    },
+    {
+      "id": 120,
+      "query": "pure veg pizza in koramangala under 300",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + pizza in koramangala under 300"
+    },
+    {
+      "id": 121,
+      "query": "pure veg thali in koramangala under 300",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + thali in koramangala under 300"
+    },
+    {
+      "id": 122,
+      "query": "pure veg biryani in hsr layout under 300",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + biryani in hsr layout under 300"
+    },
+    {
+      "id": 123,
+      "query": "pure veg pizza in hsr layout under 300",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + pizza in hsr layout under 300"
+    },
+    {
+      "id": 124,
+      "query": "pure veg thali in hsr layout under 300",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + thali in hsr layout under 300"
+    },
+    {
+      "id": 125,
+      "query": "pure veg biryani in indiranagar under 300",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + biryani in indiranagar under 300"
+    },
+    {
+      "id": 126,
+      "query": "pure veg pizza in indiranagar under 300",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + pizza in indiranagar under 300"
+    },
+    {
+      "id": 127,
+      "query": "pure veg thali in indiranagar under 300",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + thali in indiranagar under 300"
+    },
+    {
+      "id": 128,
+      "query": "pure veg biryani in koramangala under 400",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + biryani in koramangala under 400"
+    },
+    {
+      "id": 129,
+      "query": "pure veg pizza in koramangala under 400",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + pizza in koramangala under 400"
+    },
+    {
+      "id": 130,
+      "query": "pure veg thali in koramangala under 400",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + thali in koramangala under 400"
+    },
+    {
+      "id": 131,
+      "query": "pure veg biryani in hsr layout under 400",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + biryani in hsr layout under 400"
+    },
+    {
+      "id": 132,
+      "query": "pure veg pizza in hsr layout under 400",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + pizza in hsr layout under 400"
+    },
+    {
+      "id": 133,
+      "query": "pure veg thali in hsr layout under 400",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + thali in hsr layout under 400"
+    },
+    {
+      "id": 134,
+      "query": "pure veg biryani in indiranagar under 400",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + biryani in indiranagar under 400"
+    },
+    {
+      "id": 135,
+      "query": "pure veg pizza in indiranagar under 400",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + pizza in indiranagar under 400"
+    },
+    {
+      "id": 136,
+      "query": "pure veg thali in indiranagar under 400",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Mixed Constraints",
+      "description": "Multi-constraint: veg + thali in indiranagar under 400"
+    },
+    {
+      "id": 137,
+      "query": "chiken biryani",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: chiken biryani"
+    },
+    {
+      "id": 138,
+      "query": "pisa under 300",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: pisa under 300"
+    },
+    {
+      "id": 139,
+      "query": "biryany in hsr",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: biryany in hsr"
+    },
+    {
+      "id": 140,
+      "query": "paner butter masala",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: paner butter masala"
+    },
+    {
+      "id": 141,
+      "query": "chese burger",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: chese burger"
+    },
+    {
+      "id": 142,
+      "query": "noddles chinese",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: noddles chinese"
+    },
+    {
+      "id": 143,
+      "query": "dosa south indian",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: dosa south indian"
+    },
+    {
+      "id": 144,
+      "query": "sweet dessert",
+      "relevant_ids": [
+        8
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: sweet dessert"
+    },
+    {
+      "id": 145,
+      "query": "hyderabdi biryani",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: hyderabdi biryani"
+    },
+    {
+      "id": 146,
+      "query": "shezwan hakka noodles",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: shezwan hakka noodles"
+    },
+    {
+      "id": 147,
+      "query": "mutton dum biryany",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: mutton dum biryany"
+    },
+    {
+      "id": 148,
+      "query": "margherita pisa",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: margherita pisa"
+    },
+    {
+      "id": 149,
+      "query": "kesari rasgulla",
+      "relevant_ids": [
+        8
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: kesari rasgulla"
+    },
+    {
+      "id": 150,
+      "query": "peri peri fry",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: peri peri fry"
+    },
+    {
+      "id": 151,
+      "query": "steamed idly",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: steamed idly"
+    },
+    {
+      "id": 152,
+      "query": "north indan thali",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: north indan thali"
+    },
+    {
+      "id": 153,
+      "query": "bengali sweet",
+      "relevant_ids": [
+        8
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: bengali sweet"
+    },
+    {
+      "id": 154,
+      "query": "fast fud burger",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: fast fud burger"
+    },
+    {
+      "id": 155,
+      "query": "indiranagar chinese",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: indiranagar chinese"
+    },
+    {
+      "id": 156,
+      "query": "indial thali veg",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Typos",
+      "description": "Typo robustness check: indial thali veg"
+    },
+    {
+      "id": 157,
+      "query": "spicy noodles",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: spicy noodles"
+    },
+    {
+      "id": 158,
+      "query": "sweet dessert platter",
+      "relevant_ids": [
+        8
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: sweet dessert platter"
+    },
+    {
+      "id": 159,
+      "query": "crispy breakfast",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: crispy breakfast"
+    },
+    {
+      "id": 160,
+      "query": "cheesy meal",
+      "relevant_ids": [
+        2,
+        6
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: cheesy meal"
+    },
+    {
+      "id": 161,
+      "query": "rich gravy curry",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: rich gravy curry"
+    },
+    {
+      "id": 162,
+      "query": "authentic hyderabadi taste",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: authentic hyderabadi taste"
+    },
+    {
+      "id": 163,
+      "query": "quick bite burger",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: quick bite burger"
+    },
+    {
+      "id": 164,
+      "query": "traditional north meal",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: traditional north meal"
+    },
+    {
+      "id": 165,
+      "query": "hot spicy mutton",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: hot spicy mutton"
+    },
+    {
+      "id": 166,
+      "query": "bengali sweets special",
+      "relevant_ids": [
+        8
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: bengali sweets special"
+    },
+    {
+      "id": 167,
+      "query": "light south indian breakfast",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: light south indian breakfast"
+    },
+    {
+      "id": 168,
+      "query": "crunchy french fries",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: crunchy french fries"
+    },
+    {
+      "id": 169,
+      "query": "rich creamy paneer",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: rich creamy paneer"
+    },
+    {
+      "id": 170,
+      "query": "family biryani bucket",
+      "relevant_ids": [
+        3,
+        4
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: family biryani bucket"
+    },
+    {
+      "id": 171,
+      "query": "loaded pizza slice",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: loaded pizza slice"
+    },
+    {
+      "id": 172,
+      "query": "spicy schezwan gravy",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: spicy schezwan gravy"
+    },
+    {
+      "id": 173,
+      "query": "refreshing cold dessert",
+      "relevant_ids": [
+        8
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: refreshing cold dessert"
+    },
+    {
+      "id": 174,
+      "query": "hearty thali meal",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: hearty thali meal"
+    },
+    {
+      "id": 175,
+      "query": "classic woodfired pizza",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: classic woodfired pizza"
+    },
+    {
+      "id": 176,
+      "query": "authentic sourdough crust",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Semantic",
+      "description": "Semantic vector search: authentic sourdough crust"
+    },
+    {
+      "id": 177,
+      "query": "biryani without mutton",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Negations",
+      "description": "Exclusion filter: biryani without mutton"
+    },
+    {
+      "id": 178,
+      "query": "pizza without chicken",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Negations",
+      "description": "Exclusion filter: pizza without chicken"
+    },
+    {
+      "id": 179,
+      "query": "noodles without eggs",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Negations",
+      "description": "Exclusion filter: noodles without eggs"
+    },
+    {
+      "id": 180,
+      "query": "burger without onion",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Negations",
+      "description": "Exclusion filter: burger without onion"
+    },
+    {
+      "id": 181,
+      "query": "thali without garlic",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Negations",
+      "description": "Exclusion filter: thali without garlic"
+    },
+    {
+      "id": 182,
+      "query": "desserts without sugar",
+      "relevant_ids": [
+        8
+      ],
+      "category": "Negations",
+      "description": "Exclusion filter: desserts without sugar"
+    },
+    {
+      "id": 183,
+      "query": "biryani without chicken",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Negations",
+      "description": "Exclusion filter: biryani without chicken"
+    },
+    {
+      "id": 184,
+      "query": "pizza without cheese",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Negations",
+      "description": "Exclusion filter: pizza without cheese"
+    },
+    {
+      "id": 185,
+      "query": "dosa without potato",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Negations",
+      "description": "Exclusion filter: dosa without potato"
+    },
+    {
+      "id": 186,
+      "query": "fried rice without pork",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Negations",
+      "description": "Exclusion filter: fried rice without pork"
+    },
+    {
+      "id": 187,
+      "query": "curry without dairy",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Negations",
+      "description": "Exclusion filter: curry without dairy"
+    },
+    {
+      "id": 188,
+      "query": "burger without mayo",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Negations",
+      "description": "Exclusion filter: burger without mayo"
+    },
+    {
+      "id": 189,
+      "query": "sweets without dairy",
+      "relevant_ids": [
+        8
+      ],
+      "category": "Negations",
+      "description": "Exclusion filter: sweets without dairy"
+    },
+    {
+      "id": 190,
+      "query": "thali without rice",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Negations",
+      "description": "Exclusion filter: thali without rice"
+    },
+    {
+      "id": 191,
+      "query": "biryani without rice",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Negations",
+      "description": "Exclusion filter: biryani without rice"
+    },
+    {
+      "id": 192,
+      "query": "Punjab Grill",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Lexical",
+      "description": "Exact entity match: Punjab Grill"
+    },
+    {
+      "id": 193,
+      "query": "Olio Pizza",
+      "relevant_ids": [
+        2
+      ],
+      "category": "Lexical",
+      "description": "Exact entity match: Olio Pizza"
+    },
+    {
+      "id": 194,
+      "query": "Meghana Foods",
+      "relevant_ids": [
+        3
+      ],
+      "category": "Lexical",
+      "description": "Exact entity match: Meghana Foods"
+    },
+    {
+      "id": 195,
+      "query": "Empire Restaurant",
+      "relevant_ids": [
+        4
+      ],
+      "category": "Lexical",
+      "description": "Exact entity match: Empire Restaurant"
+    },
+    {
+      "id": 196,
+      "query": "Mainland China",
+      "relevant_ids": [
+        5
+      ],
+      "category": "Lexical",
+      "description": "Exact entity match: Mainland China"
+    },
+    {
+      "id": 197,
+      "query": "Truffles",
+      "relevant_ids": [
+        6
+      ],
+      "category": "Lexical",
+      "description": "Exact entity match: Truffles"
+    },
+    {
+      "id": 198,
+      "query": "CTR Shri Sagar",
+      "relevant_ids": [
+        7
+      ],
+      "category": "Lexical",
+      "description": "Exact entity match: CTR Shri Sagar"
+    },
+    {
+      "id": 199,
+      "query": "KC Das Sweets",
+      "relevant_ids": [
+        8
+      ],
+      "category": "Lexical",
+      "description": "Exact entity match: KC Das Sweets"
+    },
+    {
+      "id": 200,
+      "query": "Koramangala Punjab Grill",
+      "relevant_ids": [
+        1
+      ],
+      "category": "Lexical",
+      "description": "Exact entity match: Koramangala Punjab Grill"
+    }
+  ]
+}
