@@ -2,6 +2,8 @@
 
 This document explicitly outlines the technical boundaries, assumptions, and intentional limitations of the Constraint-Aware Hybrid Food Search Engine repository.
 
+> **Scope Clarification**: This repository focuses strictly on search and ranking; recommendation system features (such as user collaborative filtering and personalization vectors) are discussed only as future production extension paths.
+
 ---
 
 ### 1. Offline Evaluation Benchmark
@@ -11,7 +13,7 @@ This document explicitly outlines the technical boundaries, assumptions, and int
 ---
 
 ### 2. Simulated Click Log Supervision
-- **Limitation**: The Learning-to-Rank GBDT model (`HistGradientBoostingRegressor`) is trained on simulated query click logs (`data/query_click_logs.csv`).
+- **Limitation**: The Learning-to-Rank GBDT model (`HistGradientBoostingRegressor`) is trained on simulated query click logs (`data/query_click_logs_v1.csv`, `SEED=42`).
 - **Production Reality**: While the click generator models **position bias** ($P(\text{click}) \propto \text{rank}^{-0.85}$) and **query abandonment (10%)**, real production click logs capture complex multi-session user behaviors, seasonal order patterns, and real-time merchant surge pricing.
 
 ---

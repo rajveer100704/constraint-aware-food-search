@@ -15,6 +15,8 @@
 
 This project explores **constraint-aware food search** by combining lexical retrieval, dense vector retrieval, structured query parsing, and learning-to-rank over a multi-entity restaurant and dish catalog. *This project was inspired by engineering challenges commonly encountered in large-scale food search systems such as those used by food delivery platforms.*
 
+> **Scope Note**: This repository focuses strictly on search and ranking; recommendation system features (such as user collaborative filtering and personalization vectors) are discussed only as future production extension paths.
+
 It integrates Sarthak Rastogi's open-source **`search-expert`** PyPI package (`from search_expert import SearchExpert`) paired with a fast `RegexFallbackParser` circuit breaker. The engine indexes **Restaurant metadata and Menu Items / Dishes**, retrieves candidates via **Dense Vector Embeddings (`sentence-transformers/all-MiniLM-L6-v2`) + BM25 Lexical Search** using **Reciprocal Rank Fusion (RRF)**, and ranks candidates using a **Gradient Boosted Decision Tree (`HistGradientBoostingRegressor`)** Learning-to-Rank model trained on **versioned query click logs with position bias** (`data/query_click_logs_v1.csv`, `SEED=42`).
 
 ---
@@ -89,10 +91,12 @@ python build.py
 
 - **[REPRODUCIBILITY.md](REPRODUCIBILITY.md)**: Full environment setup & step-by-step reproduction guide.
 - **[RESULTS.md](RESULTS.md)**: Structured experimental results log & benchmark progression across phases.
+- **[docs/ARCHITECTURE_SUMMARY.md](docs/ARCHITECTURE_SUMMARY.md)**: 1-page overview of implemented scope vs scaling blueprints.
 - **[docs/TRADEOFFS.md](docs/TRADEOFFS.md)**: Engineering trade-offs & architecture rationale.
 - **[docs/PRODUCTION.md](docs/PRODUCTION.md)**: 40 Million restaurant production scaling blueprint.
 - **[docs/LIMITATIONS.md](docs/LIMITATIONS.md)**: Technical boundaries & out-of-scope design choices.
 - **[docs/FAILURE_GALLERY.md](docs/FAILURE_GALLERY.md)**: 5-case search failure analysis gallery.
+- **[CHANGELOG.md](CHANGELOG.md)**: Project version history.
 
 ---
 
