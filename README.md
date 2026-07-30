@@ -3,7 +3,7 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Build Status](https://img.shields.io/badge/tests-22%20passed-brightgreen.svg)]()
+[![Build Status](https://github.com/rajveer100704/constraint-aware-food-search/actions/workflows/ci.yml/badge.svg)](https://github.com/rajveer100704/constraint-aware-food-search/actions)
 
 > A constraint-aware hybrid food search engine that combines lexical retrieval, dense vector retrieval, structured query parsing, and learning-to-rank over a multi-entity restaurant and dish catalog.
 
@@ -71,11 +71,11 @@ All evaluation metrics are calculated locally over **200 categorized offline foo
 | **MRR (Mean Reciprocal Rank)** | **0.6660** | Reciprocal rank of first relevant item |
 | **NDCG@5** | **0.6853** | Normalized Discounted Cumulative Gain |
 | **Constraint Satisfaction** | **100.0%** | Hard filter compliance across retrieved candidates |
-| **Mean Query Latency (Cold)** | **149.20 ms** | Measured end-to-end latency on CPU |
-| **Warm LRU Cache Latency** | **0.45 ms** | Measured latency on exact query cache hit (**99.7% reduction**) |
-| **P50 SLA Latency** | **22.81 ms** | 50th Percentile query SLA |
-| **P90 SLA Latency** | **32.85 ms** | 90th Percentile query SLA |
-| **P95 SLA Latency** | **52.52 ms** | 95th Percentile query SLA |
+| **Mean Query Latency (Cold)** | **60.97 ms** | Measured end-to-end latency on CPU |
+| **Warm LRU Cache Latency** | **0.45 ms** | Measured latency on exact query cache hit (**99.3% reduction**) |
+| **P50 SLA Latency** | **22.45 ms** | 50th Percentile query SLA |
+| **P90 SLA Latency** | **24.95 ms** | 90th Percentile query SLA |
+| **P95 SLA Latency** | **26.02 ms** | 95th Percentile query SLA |
 
 ---
 

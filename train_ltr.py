@@ -10,12 +10,14 @@ from search_engine import (
     compute_features, get_bm25_index, _PARSER_PIPELINE
 )
 
-def load_click_log_targets(click_logs_path: str = "data/query_click_logs.csv") -> dict:
+def load_click_log_targets(click_logs_path: str = "data/query_click_logs_v1.csv") -> dict:
     """
     Parses simulated query click logs and computes empirical click-through targets
     y = sum(action_weight / log2(rank + 1)) per (query, restaurant_id) pair.
     """
     targets = {}
+    if not os.path.exists(click_logs_path):
+        click_logs_path = "data/query_click_logs.csv"
     if not os.path.exists(click_logs_path):
         return targets
         
@@ -46,7 +48,8 @@ def build_ltr_dataset(catalog=None):
 
     click_targets = load_click_log_targets()
     
-    with open("data/evaluation_set.json", "r") as f:
+    eval_path = "data/evaluation_set_v2.json" if os.path.exists("data/evaluation_set_v2.json") else "data/evaluation_set.json"
+    with open(eval_path, "r", encoding="utf-8") as f:
         eval_queries = json.load(f)
         
     training_queries = [q["query"] for q in eval_queries]

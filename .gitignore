@@ -21,8 +21,12 @@ wheels/
 .installed.cfg
 *.egg
 
-# Pytest
+# Pytest & Coverage
 .pytest_cache/
+.coverage
+
+# Zip archives (Releases belong on GitHub Releases, not git source)
+*.zip
 
 # IDE
 .idea/

@@ -49,7 +49,7 @@ def evaluate_constraint_satisfaction(results: List[Dict[str, Any]], parsed) -> f
             satisfied += 1
     return satisfied / len(results)
 
-def run_evaluation(eval_set_path: str = "data/evaluation_set.json", catalog: List[RestaurantSchema] = CATALOG):
+def run_evaluation(eval_set_path: str = "data/evaluation_set_v2.json", catalog: List[RestaurantSchema] = CATALOG):
     print("\n--- Running Evaluation & Performance Profiling (50 Benchmark Queries) ---")
     with open(eval_set_path, "r") as f:
         eval_queries = json.load(f)
