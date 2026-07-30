@@ -1,908 +1,908 @@
 log_id,user_id,query,clicked_restaurant_id,clicked_rank,action,timestamp
-1,user_048,masala dosa,7,1,click,1783245193
-2,user_006,paner butter masala,1,4,click,1783208284
-3,user_039,pure veg thali in koramangala under 400,1,2,order,1783739892
-4,user_001,biryani in BTM Layout,4,2,order,1784242412
-5,user_049,biryani in Koramangala,4,1,order,1783220955
-6,user_039,Italian food,2,1,order,1785064401
-7,user_006,Desserts dishes,8,1,click,1783107033
-8,user_006,chinese in BTM Layout,2,3,order,1783981203
-9,user_011,Fast Food dishes,6,2,add_to_cart,1783114781
-10,user_035,chinese under 350,5,2,order,1784406849
-11,user_045,traditional north meal,1,1,click,1783775995
-12,user_026,North Indian restaurant,1,5,add_to_cart,1783707118
-13,user_042,pure veg pizza in koramangala under 200,2,3,click,1783849728
-14,user_017,pisa under 300,2,1,order,1784333621
-15,user_033,veg food under 300,1,1,click,1783456360
-16,user_028,classic woodfired pizza,2,1,order,1785314635
-17,user_017,pure veg thali in indiranagar under 400,1,1,click,1785067514
-18,user_042,Truffles,6,1,order,1783478659
-19,user_047,dosa without potato,7,1,click,1784067066
-20,user_039,pure veg thali in koramangala under 400,1,1,click,1785077617
-21,user_001,pure veg thali in indiranagar under 400,1,2,click,1783284505
-22,user_016,chinese in Whitefield,5,1,click,1784853689
-23,user_035,Empire Restaurant,4,1,order,1785121341
-24,user_039,pure veg thali in indiranagar under 400,1,1,click,1784122730
-25,user_042,spicy schezwan gravy,5,1,click,1783855089
-26,user_002,Chinese restaurant,5,3,click,1782845458
-27,user_005,chinese in Koramangala,6,1,click,1784971825
-28,user_032,spicy schezwan gravy,5,1,order,1783834502
-29,user_013,pure veg pizza in hsr layout under 200,2,2,add_to_cart,1784591915
-30,user_004,curry without dairy,1,1,click,1784504014
-31,user_016,pizza under 200,2,2,click,1784584797
-32,user_016,pure veg biryani in koramangala under 300,2,1,order,1785123529
-33,user_001,biryany in hsr,4,1,click,1784519922
-34,user_026,south indian under 500,3,4,order,1782824338
-35,user_030,biryani in Jayanagar,4,5,click,1783611787
-36,user_038,dal makhani,1,3,add_to_cart,1783055066
-37,user_011,pure veg thali in indiranagar under 400,1,1,click,1783102697
-38,user_016,refreshing cold dessert,8,1,click,1783159161
-39,user_037,peri peri fry,6,2,click,1784133080
-40,user_009,pure veg pizza in koramangala under 200,2,1,order,1784141441
-41,user_001,gulab jamun,8,1,click,1785070300
-42,user_009,biryani in Jayanagar,2,1,click,1784365206
-43,user_035,pure veg biryani in hsr layout under 250,4,1,add_to_cart,1783249771
-44,user_017,south indian under 250,7,4,click,1783957609
-45,user_046,chinese under 500,5,1,order,1783868576
-46,user_006,mishti doi,8,2,click,1782830169
-47,user_041,chinese under 250,3,1,order,1785129213
-48,user_001,sweet dessert,8,1,click,1784363902
-49,user_028,pizza under 300,2,1,add_to_cart,1782982629
-50,user_044,chinese under 500,5,1,add_to_cart,1785163619
-51,user_040,pure veg pizza in hsr layout under 200,2,5,click,1783557909
-52,user_012,masala dosa,7,3,order,1783856186
-53,user_007,burger without onion,6,4,order,1783748252
-54,user_023,pure veg thali in indiranagar under 250,1,4,click,1782914553
-55,user_022,pure veg thali in koramangala under 200,1,2,add_to_cart,1784288111
-56,user_044,pure veg thali in koramangala under 200,6,4,click,1783299076
-57,user_012,chinese in Indiranagar,5,1,click,1783269971
-58,user_047,Italian food,2,1,click,1784430924
-59,user_017,chinese under 400,5,1,click,1784996001
-60,user_044,pisa under 300,2,1,add_to_cart,1784624290
-61,user_040,South Indian dishes,7,1,add_to_cart,1784942323
-62,user_021,pure veg pizza in hsr layout under 200,2,1,click,1783619933
-63,user_044,Biryani food,3,3,add_to_cart,1784518500
-64,user_020,paneer butter masala,1,1,add_to_cart,1784765599
-65,user_014,refreshing cold dessert,8,1,click,1784005584
-66,user_040,quick bite burger,6,1,add_to_cart,1783757509
-67,user_002,pizza under 300,2,1,click,1784725451
-68,user_037,authentic hyderabadi taste,3,3,order,1784491563
-69,user_045,crunchy french fries,6,1,order,1783733184
-70,user_034,noodles without eggs,5,5,click,1784729837
-71,user_043,pure veg biryani in koramangala under 300,4,3,order,1785384948
-72,user_028,pure veg thali in koramangala under 400,1,1,click,1784806226
-73,user_016,Olio Pizza,2,1,order,1783818767
-74,user_046,cold coffee,6,3,add_to_cart,1784156257
-75,user_009,veg food under 150,1,2,click,1783712681
-76,user_030,biryany in hsr,3,2,order,1784448882
-77,user_045,peri peri fry,6,3,order,1782840027
-78,user_049,dosa in Whitefield,7,1,click,1784863080
-79,user_032,pure veg thali in koramangala under 250,1,1,order,1783507545
-80,user_040,pizza under 250,2,1,click,1783167399
-81,user_030,south indian under 250,7,3,order,1784188314
-82,user_022,South Indian restaurant,7,2,add_to_cart,1784583469
-83,user_031,veg food under 150,1,1,add_to_cart,1783755753
-84,user_042,Koramangala Punjab Grill,1,1,click,1783651477
-85,user_010,cheesy meal,6,1,click,1785180757
-86,user_045,pure veg pizza in koramangala under 300,2,1,click,1785356596
-87,user_046,Punjab Grill,1,2,add_to_cart,1783268697
-88,user_037,North Indian food,1,2,order,1783647153
-89,user_016,rich gravy curry,1,3,click,1785188991
-90,user_035,Italian food,2,1,click,1784937451
-91,user_027,mutton dum biryani,4,1,order,1784334424
-92,user_046,pure veg thali in indiranagar under 250,1,2,add_to_cart,1785398621
-93,user_050,pisa under 300,2,2,add_to_cart,1784167141
-94,user_018,pizza under 150,4,2,order,1785205420
-95,user_022,Biryani food,3,3,click,1784860230
-96,user_022,chinese in Indiranagar,5,1,click,1784982189
-97,user_016,biryani under 150,3,1,click,1784812177
-98,user_029,pure veg pizza in indiranagar under 300,2,1,add_to_cart,1783744740
-99,user_020,chinese in HSR Layout,5,1,order,1785136731
-100,user_048,pure veg thali in indiranagar under 200,1,1,order,1783951603
-101,user_008,biryani in HSR Layout,4,1,click,1785062874
-102,user_012,biryani without mutton,3,2,add_to_cart,1785288204
-103,user_039,pure veg pizza in indiranagar under 400,2,1,click,1784057845
-104,user_020,veg food under 400,1,1,add_to_cart,1783006204
-105,user_019,noddles chinese,5,4,order,1783245581
-106,user_019,mutton dum biryany,4,1,add_to_cart,1783588575
-107,user_031,dosa in Indiranagar,7,1,order,1784877832
-108,user_010,mishti doi,8,2,click,1783856286
-109,user_027,Mainland China,5,1,order,1784704892
-110,user_038,dosa in Whitefield,5,1,click,1785372275
-111,user_049,veg food under 200,1,1,add_to_cart,1783155822
-112,user_036,south indian under 350,7,1,order,1784704847
-113,user_019,pure veg thali in koramangala under 300,1,4,add_to_cart,1784719643
-114,user_041,biryani in Jayanagar,4,3,order,1783296704
-115,user_010,bengali sweets special,3,2,click,1783065438
-116,user_039,chinese in Whitefield,5,3,order,1783336875
-117,user_045,burger in Whitefield,6,3,order,1784651391
-118,user_039,South Indian food,7,1,click,1785227857
-119,user_049,veg cheese burger,6,4,click,1783550101
-120,user_029,light south indian breakfast,3,1,order,1784877745
-121,user_023,pure veg thali in koramangala under 300,1,3,click,1783489846
-122,user_032,pizza without chicken,2,4,click,1784722976
-123,user_050,south indian under 200,7,1,order,1784548583
-124,user_049,cheesy meal,6,1,click,1783669083
-125,user_019,chinese under 250,5,1,click,1782936385
-126,user_016,indial thali veg,1,1,click,1785131608
-127,user_008,burger in Koramangala,6,3,click,1784905636
-128,user_033,chinese in BTM Layout,5,3,order,1784795931
-129,user_010,noddles chinese,5,1,click,1783973963
-130,user_022,pure veg biryani in indiranagar under 200,5,1,click,1784001610
-131,user_038,steamed idly,8,1,click,1784688253
-132,user_022,Italian food,2,1,order,1784164930
-133,user_016,noodles without eggs,5,1,order,1782998368
-134,user_046,pure veg biryani in hsr layout under 300,7,1,order,1783453273
-135,user_009,steamed idli sambar,7,4,click,1784662076
-136,user_047,mutton dum biryani,4,1,click,1784784484
-137,user_022,biryani in Jayanagar,4,1,click,1784193401
-138,user_025,chiken biryani,8,2,click,1785405110
-139,user_015,burger in BTM Layout,6,1,click,1783236855
-140,user_020,pizza without chicken,1,5,add_to_cart,1783050679
-141,user_028,Desserts restaurant,8,5,click,1783528261
-142,user_025,spicy noodles,5,1,order,1785261236
-143,user_041,pure veg biryani in koramangala under 300,4,1,click,1784766711
-144,user_035,hearty thali meal,1,1,add_to_cart,1785279752
-145,user_045,pure veg thali in indiranagar under 200,1,1,click,1784428818
-146,user_016,pizza under 200,2,1,add_to_cart,1784053585
-147,user_018,pure veg pizza in koramangala under 200,2,2,order,1784015683
-148,user_039,chinese in Koramangala,5,1,click,1783866502
-149,user_050,dosa without potato,7,1,click,1782980648
-150,user_003,pure veg biryani in hsr layout under 250,4,1,click,1784053080
-151,user_012,pure veg biryani in indiranagar under 200,4,4,add_to_cart,1783505447
-152,user_019,pure veg thali in hsr layout under 300,1,1,click,1784779622
-153,user_049,biryani under 300,7,1,add_to_cart,1783194055
-154,user_017,mutton dum biryani,4,1,add_to_cart,1783914882
-155,user_024,traditional north meal,1,5,order,1782920258
-156,user_021,sweet dessert,4,1,click,1784762577
-157,user_042,burger in Whitefield,6,2,click,1782971376
-158,user_008,pure veg thali in indiranagar under 300,1,2,order,1784718017
-159,user_045,biryani without rice,7,1,click,1784555449
-160,user_040,pure veg pizza in indiranagar under 300,2,2,click,1784369413
-161,user_016,pure veg pizza in hsr layout under 250,2,1,add_to_cart,1785098953
-162,user_023,bengali sweets special,8,2,click,1783327672
-163,user_006,pure veg pizza in indiranagar under 250,2,2,click,1784214136
-164,user_037,pizza under 250,2,1,click,1783792565
-165,user_039,pizza under 300,2,1,click,1785081125
-166,user_008,south indian under 350,7,3,click,1782877626
-167,user_038,dosa in HSR Layout,7,1,add_to_cart,1783035075
-168,user_034,pure veg pizza in indiranagar under 200,2,1,order,1784695500
-169,user_038,pure veg pizza in hsr layout under 400,2,1,click,1785002422
-170,user_002,hot spicy mutton,4,2,order,1784603219
-171,user_046,pure veg pizza in indiranagar under 300,2,2,click,1784166332
-172,user_009,tandoori chicken,3,1,order,1785320941
-173,user_033,pure veg pizza in indiranagar under 250,2,1,click,1785127765
-174,user_028,biryani in Koramangala,4,1,order,1784236880
-175,user_027,pure veg thali in koramangala under 200,1,2,order,1784126116
-176,user_010,Desserts restaurant,8,1,click,1783197922
-177,user_028,chinese under 150,5,2,click,1785148886
-178,user_022,sweet dessert,8,1,add_to_cart,1784589223
-179,user_004,dosa without potato,5,4,add_to_cart,1783249830
-180,user_010,south indian under 500,7,1,click,1784283782
-181,user_008,Desserts food,8,1,order,1785168158
-182,user_040,cheesy meal,2,1,add_to_cart,1782936736
-183,user_049,burger without onion,6,4,add_to_cart,1782840907
-184,user_037,biryani under 300,3,3,click,1782943883
-185,user_027,Desserts dishes,8,1,add_to_cart,1784122399
-186,user_037,KC Das Sweets,8,2,click,1783475522
-187,user_044,peri peri french fries,6,3,order,1784852310
-188,user_018,pure veg biryani in indiranagar under 200,4,2,add_to_cart,1784618486
-189,user_044,hearty thali meal,1,1,click,1783740219
-190,user_004,fast fud burger,6,1,click,1783390902
-191,user_021,chinese in BTM Layout,5,1,order,1783552215
-192,user_046,chiken biryani,3,4,click,1784480735
-193,user_028,chicken fried rice,5,4,add_to_cart,1785230206
-194,user_046,pure veg biryani in hsr layout under 200,4,2,click,1784514126
-195,user_030,crispy breakfast,7,1,click,1784646999
-196,user_028,chinese in HSR Layout,5,1,order,1784116683
-197,user_022,dosa in Koramangala,7,2,click,1785040815
-198,user_023,KC Das Sweets,8,4,click,1783246491
-199,user_012,veg food under 500,1,3,click,1784887775
-200,user_049,hyderabdi biryani,3,3,add_to_cart,1783448459
-201,user_029,pure veg thali in koramangala under 300,1,2,click,1784291450
-202,user_030,North Indian food,1,1,add_to_cart,1784019386
-203,user_040,chinese under 150,5,1,order,1785249375
-204,user_003,thali without rice,1,4,add_to_cart,1785352876
-205,user_004,chinese under 300,5,2,click,1784931529
-206,user_016,chicken fried rice,5,1,click,1784341596
-207,user_025,dosa in BTM Layout,7,1,click,1784218919
-208,user_017,dosa in BTM Layout,7,2,add_to_cart,1783157142
-209,user_023,biryani under 300,3,1,click,1785311081
-210,user_020,biryani under 150,3,1,click,1785023151
-211,user_024,pure veg biryani in hsr layout under 400,4,1,click,1783713687
-212,user_032,Truffles,6,2,click,1783138951
-213,user_033,veg food under 200,1,2,add_to_cart,1783364957
-214,user_011,south indian under 300,7,1,order,1782998557
-215,user_047,hearty thali meal,1,2,add_to_cart,1784698238
-216,user_020,burger in HSR Layout,8,1,click,1784358134
-217,user_029,mutton dum biryany,4,1,order,1784924641
-218,user_013,biryani under 350,3,2,add_to_cart,1783034155
-219,user_036,Desserts restaurant,2,2,add_to_cart,1783167095
-220,user_029,burger in Jayanagar,3,3,order,1783199972
-221,user_029,dosa in Koramangala,1,2,order,1783038673
-222,user_016,Desserts restaurant,8,2,add_to_cart,1783757081
-223,user_042,biryani without chicken,4,1,click,1782975953
-224,user_045,pure veg thali in koramangala under 300,1,1,order,1785396255
-225,user_036,chinese under 300,7,1,click,1784023683
-226,user_004,biryani under 250,3,1,click,1783280269
-227,user_039,pure veg biryani in koramangala under 400,4,5,click,1784036981
-228,user_023,sweet dessert platter,8,1,click,1783174388
-229,user_005,Fast Food restaurant,1,4,order,1784787187
-230,user_017,Desserts restaurant,8,2,click,1784261504
-231,user_041,rich creamy paneer,1,3,click,1783001255
-232,user_042,Chinese restaurant,5,1,order,1783579827
-233,user_046,tandoori chicken,3,2,click,1784046085
-234,user_003,biryani under 500,3,1,order,1785092933
-235,user_049,steamed idli sambar,7,1,add_to_cart,1783015802
-236,user_018,South Indian dishes,7,2,order,1784493110
-237,user_022,Biryani restaurant,8,1,order,1784356062
-238,user_018,pure veg thali in hsr layout under 400,1,1,click,1784621395
-239,user_035,biryani under 400,3,2,click,1784190693
-240,user_029,chinese in Whitefield,5,1,click,1784677184
-241,user_047,chicken fried rice,6,4,order,1783966866
-242,user_005,dal makhani,1,4,add_to_cart,1784967336
-243,user_011,hearty thali meal,3,4,order,1782961255
-244,user_050,dosa in HSR Layout,7,1,order,1785194494
-245,user_024,pure veg biryani in indiranagar under 250,4,1,click,1785036013
-246,user_042,North Indian restaurant,1,4,click,1783595640
-247,user_036,Biryani dishes,3,1,order,1783715271
-248,user_045,burger in BTM Layout,8,5,click,1783329676
-249,user_029,gulab jamun,8,5,click,1784155746
-250,user_005,desserts without sugar,8,3,add_to_cart,1783475922
-251,user_041,burger without onion,6,1,click,1783324329
-252,user_016,veg food under 300,1,1,add_to_cart,1785139032
-253,user_036,pure veg pizza in koramangala under 300,2,3,click,1784112557
-254,user_047,pizza without cheese,2,1,order,1785226605
-255,user_005,hot spicy mutton,4,1,click,1785127632
-256,user_050,biryani under 400,7,2,click,1783336067
-257,user_011,burger in Whitefield,6,4,add_to_cart,1784991713
-258,user_017,veg food under 150,1,2,click,1784085436
-259,user_033,chinese under 150,5,2,click,1785353434
-260,user_003,hyderabdi biryani,3,1,click,1783005978
-261,user_037,CTR Shri Sagar,7,2,order,1782942326
-262,user_035,rich gravy curry,1,5,order,1783842390
-263,user_026,authentic sourdough crust,2,1,click,1783478335
-264,user_030,pure veg thali in hsr layout under 300,1,1,add_to_cart,1784154608
-265,user_026,Italian food,2,3,click,1784153767
-266,user_018,biryani under 250,3,2,click,1783027551
-267,user_040,Biryani restaurant,3,2,add_to_cart,1785238293
-268,user_049,chinese under 400,5,2,order,1784109410
-269,user_026,chinese under 150,5,1,click,1785262020
-270,user_019,peri peri french fries,6,1,add_to_cart,1785066342
-271,user_017,south indian under 250,7,3,add_to_cart,1783005058
-272,user_036,shezwan hakka noodles,5,3,click,1784435762
-273,user_036,Mainland China,5,3,click,1783220809
-274,user_036,Chinese restaurant,3,4,click,1785342210
-275,user_003,pure veg pizza in koramangala under 400,2,1,add_to_cart,1784802324
-276,user_039,chinese under 300,3,1,add_to_cart,1785386692
-277,user_040,pure veg biryani in koramangala under 200,4,3,add_to_cart,1784943131
-278,user_032,chiken biryani,3,2,order,1782885078
-279,user_008,refreshing cold dessert,5,2,click,1785318918
-280,user_050,crunchy french fries,6,3,click,1785262772
-281,user_041,pure veg pizza in indiranagar under 400,2,4,click,1783831144
-282,user_013,chinese under 200,5,1,order,1783450446
-283,user_027,pizza under 500,2,1,click,1783394457
-284,user_021,sweet dessert,8,1,order,1784131271
-285,user_035,pure veg thali in indiranagar under 250,1,2,add_to_cart,1785374144
-286,user_018,biryani in Indiranagar,4,1,add_to_cart,1784027469
-287,user_046,biryani without mutton,3,1,add_to_cart,1785166153
-288,user_018,dosa without potato,7,1,order,1784262897
-289,user_019,pizza under 300,2,1,add_to_cart,1784670757
-290,user_031,Punjab Grill,1,2,add_to_cart,1783391062
-291,user_038,thali without rice,1,1,click,1783791885
-292,user_031,pizza without cheese,2,1,click,1785123643
-293,user_027,veg food under 350,1,3,order,1783651876
-294,user_021,burger in BTM Layout,6,1,click,1785223387
-295,user_047,thali without rice,1,1,click,1784568034
-296,user_003,veg food under 400,7,1,order,1783596745
-297,user_003,chinese in BTM Layout,5,2,add_to_cart,1784008836
-298,user_035,hot spicy mutton,4,1,order,1783959659
-299,user_022,chinese under 200,5,2,add_to_cart,1783596273
-300,user_037,biryani in Whitefield,4,1,click,1785377826
-301,user_028,pure veg biryani in hsr layout under 200,4,1,order,1783215372
-302,user_031,veg food under 300,1,1,click,1783909110
-303,user_049,pure veg thali in hsr layout under 250,1,1,add_to_cart,1785258315
-304,user_017,hyderabadi chicken biryani,3,2,click,1783311168
-305,user_026,veg food under 350,1,2,click,1784052775
-306,user_015,dosa in Koramangala,8,5,click,1784723616
-307,user_024,indial thali veg,1,1,click,1783853243
-308,user_006,bengali sweet,8,1,click,1785181593
-309,user_033,chese burger,6,3,click,1784191523
-310,user_008,pure veg pizza in hsr layout under 250,2,1,click,1784955967
-311,user_030,dal makhani,1,1,order,1785180512
-312,user_047,chinese in Whitefield,5,1,click,1783729242
-313,user_028,margherita pizza,2,1,click,1783104785
-314,user_003,pure veg thali in koramangala under 300,1,5,click,1784578423
-315,user_029,Biryani food,7,3,order,1783151890
-316,user_035,family biryani bucket,4,2,click,1783563870
-317,user_034,pure veg biryani in koramangala under 200,4,1,click,1782910656
-318,user_044,pure veg biryani in koramangala under 300,4,1,order,1783778578
-319,user_010,Italian food,2,1,click,1784573720
-320,user_016,schezwan hakka noodles,5,1,click,1784687807
-321,user_004,thali without garlic,1,1,order,1784656441
-322,user_049,biryani in Koramangala,1,2,click,1784928790
-323,user_047,biryani in HSR Layout,4,2,click,1784080989
-324,user_034,family biryani bucket,4,1,add_to_cart,1783070972
-325,user_048,north indan thali,7,4,order,1783011944
-326,user_043,hot spicy mutton,4,2,order,1784527661
-327,user_012,Desserts dishes,8,2,click,1783760461
-328,user_010,desserts without sugar,8,2,order,1784562258
-329,user_025,south indian under 250,7,1,add_to_cart,1783146943
-330,user_006,Desserts food,8,1,click,1783941307
-331,user_039,indiranagar chinese,5,1,click,1785279802
-332,user_014,sweet dessert,8,2,add_to_cart,1782879612
-333,user_048,chinese under 400,5,1,click,1785350341
-334,user_016,pure veg pizza in koramangala under 200,2,1,order,1784770894
-335,user_020,Fast Food food,6,1,order,1783228890
-336,user_031,dosa without potato,7,1,click,1784370147
-337,user_037,margherita pizza,3,3,click,1783909063
-338,user_038,peri peri fry,6,2,click,1783638185
-339,user_037,Biryani food,3,1,add_to_cart,1783894604
-340,user_047,pure veg pizza in indiranagar under 300,2,1,order,1783520921
-341,user_011,Italian dishes,2,1,click,1785089184
-342,user_034,garlic naan,1,1,click,1782842073
-343,user_015,authentic hyderabadi taste,3,1,click,1783732674
-344,user_004,Desserts restaurant,8,1,order,1782881281
-345,user_002,mutton dum biryani,4,1,add_to_cart,1782887199
-346,user_044,noodles without eggs,5,2,click,1783219267
-347,user_013,burger in HSR Layout,6,2,add_to_cart,1783936539
-348,user_024,veg food under 150,8,1,click,1783762611
-349,user_042,veg food under 150,1,1,click,1784515158
-350,user_031,noddles chinese,5,2,click,1783162108
-351,user_042,pure veg thali in koramangala under 250,1,1,click,1783779008
-352,user_037,pizza without chicken,2,3,click,1783991267
-353,user_043,hyderabdi biryani,3,2,click,1783684182
-354,user_046,Olio Pizza,2,1,add_to_cart,1783496663
-355,user_025,shezwan hakka noodles,5,1,order,1783402293
-356,user_047,biryani without mutton,3,2,click,1783225021
-357,user_022,cold coffee,6,1,add_to_cart,1782939557
-358,user_032,pure veg biryani in indiranagar under 250,4,2,order,1783594338
-359,user_025,family biryani bucket,4,4,click,1783123607
-360,user_041,biryani without chicken,4,2,add_to_cart,1784328184
-361,user_020,chicken tikka pizza,2,1,click,1783371072
-362,user_036,dosa south indian,7,2,click,1783191186
-363,user_039,chinese under 150,5,1,order,1782867058
-364,user_050,Biryani dishes,3,1,click,1784412203
-365,user_020,dosa in Jayanagar,7,4,click,1783516616
-366,user_020,pure veg pizza in indiranagar under 200,2,1,add_to_cart,1783871003
-367,user_041,dosa without potato,7,5,order,1783263972
-368,user_026,chicken tikka pizza,2,4,add_to_cart,1784661726
-369,user_039,light south indian breakfast,7,1,click,1784824410
-370,user_021,pure veg pizza in koramangala under 200,2,1,click,1784182163
-371,user_024,pure veg biryani in koramangala under 200,4,1,click,1785122581
-372,user_014,desserts without sugar,8,1,click,1784531362
-373,user_041,veg food under 300,1,1,click,1784590025
-374,user_029,gulab jamun,8,2,order,1785056597
-375,user_027,pizza without chicken,2,1,click,1783274026
-376,user_043,rich creamy paneer,1,1,order,1784206115
-377,user_007,pure veg pizza in koramangala under 250,2,3,click,1784957229
-378,user_038,dosa south indian,7,1,order,1784384469
-379,user_044,CTR Shri Sagar,7,3,add_to_cart,1782918321
-380,user_027,biryani in Whitefield,2,1,click,1783409526
-381,user_030,Chinese dishes,5,1,add_to_cart,1784812468
-382,user_021,pure veg biryani in indiranagar under 250,4,2,click,1782910026
-383,user_007,bengali sweets special,8,2,click,1784979533
-384,user_022,veg food under 350,1,3,click,1784514190
-385,user_041,pizza under 400,2,2,click,1785391049
-386,user_038,pure veg biryani in indiranagar under 250,4,3,click,1783678420
-387,user_005,thali without garlic,1,1,add_to_cart,1784182577
-388,user_017,south indian under 200,7,1,add_to_cart,1785319175
-389,user_038,pure veg biryani in koramangala under 200,4,2,order,1785404704
-390,user_046,refreshing cold dessert,8,3,click,1784128894
-391,user_008,chinese in Whitefield,5,5,order,1784569519
-392,user_025,margherita pisa,2,1,click,1785142770
-393,user_009,burger in BTM Layout,6,1,click,1784321217
-394,user_009,pure veg biryani in indiranagar under 300,4,3,order,1784531331
-395,user_046,pure veg biryani in indiranagar under 200,4,1,click,1783162043
-396,user_015,Empire Restaurant,4,4,click,1785070191
-397,user_030,Koramangala Punjab Grill,1,3,click,1785217434
-398,user_035,KC Das Sweets,8,1,click,1784666523
-399,user_007,pure veg thali in indiranagar under 200,1,2,add_to_cart,1782950482
-400,user_006,Italian restaurant,2,2,click,1783695590
-401,user_045,steamed idly,7,1,click,1785399623
-402,user_014,pizza under 500,2,4,add_to_cart,1785318700
-403,user_046,South Indian food,7,1,click,1783383999
-404,user_004,pure veg thali in hsr layout under 200,3,3,click,1783862520
-405,user_016,South Indian food,7,1,order,1783411609
-406,user_041,dosa in Jayanagar,7,4,click,1783205765
-407,user_018,Punjab Grill,1,1,order,1784862304
-408,user_050,paneer butter masala,1,1,order,1784317793
-409,user_026,chiken biryani,3,4,click,1784890282
-410,user_022,dosa in BTM Layout,7,1,order,1784257046
-411,user_004,Mainland China,5,1,click,1783336386
-412,user_029,veg food under 350,1,4,click,1783368581
-413,user_011,burger in Whitefield,5,4,click,1784327073
-414,user_043,Desserts restaurant,3,2,click,1784477675
-415,user_045,fried rice without pork,5,2,click,1783214527
-416,user_038,chinese under 250,5,1,click,1782849114
-417,user_028,veg food under 250,1,1,click,1783775570
-418,user_007,burger without mayo,6,1,add_to_cart,1783390459
-419,user_009,Olio Pizza,2,2,click,1785040410
-420,user_042,spicy noodles,5,2,click,1783450207
-421,user_044,sweet dessert platter,8,3,click,1783236679
-422,user_038,biryani under 250,3,3,order,1784134421
-423,user_018,biryani in Indiranagar,4,1,add_to_cart,1782927807
-424,user_020,rich creamy paneer,1,1,order,1784054891
-425,user_032,burger in HSR Layout,6,1,order,1785306420
-426,user_024,mutton dum biryani,3,1,order,1785199258
-427,user_044,paner butter masala,1,1,click,1782885298
-428,user_017,mutton dum biryani,4,3,order,1784940176
-429,user_033,biryani without chicken,4,1,order,1783161025
-430,user_040,pisa under 300,2,1,add_to_cart,1783146738
-431,user_010,pizza under 500,2,1,click,1784116243
-432,user_016,curry without dairy,1,2,order,1783301780
-433,user_004,indial thali veg,1,2,click,1782868418
-434,user_001,burger without onion,6,1,add_to_cart,1783515591
-435,user_050,Punjab Grill,2,1,click,1784220436
-436,user_034,burger in Jayanagar,6,2,order,1784724535
-437,user_032,dal makhani,3,1,add_to_cart,1783475103
-438,user_037,biryani under 200,3,3,click,1784949464
-439,user_016,mutton dum biryani,4,2,order,1783444798
-440,user_036,steamed idli sambar,7,1,click,1784165033
-441,user_021,dosa without potato,7,1,add_to_cart,1783316101
-442,user_012,mishti doi,8,5,order,1783104396
-443,user_050,dosa in BTM Layout,7,1,click,1785135131
-444,user_013,Desserts food,8,1,click,1784761147
-445,user_050,pure veg thali in indiranagar under 300,1,3,click,1782842048
-446,user_015,masala dosa,7,4,add_to_cart,1782821430
-447,user_048,Desserts dishes,8,5,click,1785037501
-448,user_032,pure veg pizza in indiranagar under 200,3,2,add_to_cart,1783205480
-449,user_027,pure veg biryani in indiranagar under 400,4,1,order,1783171404
-450,user_009,pure veg thali in koramangala under 400,1,1,click,1785297888
-451,user_043,pure veg thali in koramangala under 250,4,3,add_to_cart,1783909973
-452,user_045,pure veg biryani in koramangala under 200,4,2,add_to_cart,1784714302
-453,user_013,cold coffee,6,1,click,1783258458
-454,user_021,pure veg pizza in koramangala under 300,2,4,click,1784710775
-455,user_008,biryani in Jayanagar,4,1,click,1783717160
-456,user_010,South Indian restaurant,7,1,add_to_cart,1784477267
-457,user_020,hearty thali meal,1,1,click,1784511441
-458,user_048,dosa south indian,7,1,order,1783242728
-459,user_008,veg food under 300,1,1,click,1783646328
-460,user_044,Desserts restaurant,8,1,add_to_cart,1783129817
-461,user_009,pure veg pizza in hsr layout under 250,2,1,click,1782994379
-462,user_011,peri peri french fries,7,2,order,1784896202
-463,user_023,south indian under 350,7,2,add_to_cart,1783989093
-464,user_003,chinese under 300,5,2,add_to_cart,1784907801
-465,user_031,chese burger,6,5,order,1783390907
-466,user_034,hot spicy mutton,4,1,order,1784321523
-467,user_023,pure veg biryani in indiranagar under 300,6,1,order,1783949587
-468,user_039,North Indian dishes,1,3,click,1784793685
-469,user_038,Truffles,3,1,click,1783854885
-470,user_035,dosa in Jayanagar,7,5,click,1785229925
-471,user_023,Biryani dishes,3,1,click,1783807465
-472,user_045,sweets without dairy,8,5,add_to_cart,1785196200
-473,user_013,hyderabdi biryani,3,1,add_to_cart,1783551636
-474,user_004,chinese under 150,5,4,click,1785023383
-475,user_040,South Indian dishes,7,1,add_to_cart,1783559618
-476,user_004,South Indian food,7,5,click,1785022738
-477,user_024,gulab jamun,8,1,click,1784226937
-478,user_011,south indian under 250,7,2,order,1784146081
-479,user_045,sweet dessert,6,5,click,1785285533
-480,user_020,Desserts dishes,8,1,click,1783560660
-481,user_037,burger without onion,6,2,click,1785341899
-482,user_015,spicy noodles,5,2,order,1783405199
-483,user_016,cold coffee,6,1,click,1783187441
-484,user_041,spicy schezwan gravy,5,2,order,1782863094
-485,user_045,biryani in Indiranagar,4,2,click,1782820671
-486,user_011,pure veg pizza in indiranagar under 200,8,4,order,1784288468
-487,user_031,veg food under 200,1,1,click,1784708134
-488,user_002,biryani in Whitefield,4,1,click,1784248945
-489,user_011,Desserts dishes,8,4,add_to_cart,1785306842
-490,user_046,pure veg thali in hsr layout under 300,1,4,order,1783474239
-491,user_027,chinese under 400,5,1,add_to_cart,1784062686
-492,user_026,peri peri french fries,6,2,click,1783043907
-493,user_006,pure veg biryani in koramangala under 250,4,1,click,1783222090
-494,user_006,chinese in BTM Layout,5,1,add_to_cart,1784482396
-495,user_017,family biryani bucket,4,1,click,1784371470
-496,user_012,Desserts food,8,1,order,1784765892
-497,user_037,dosa in Jayanagar,7,2,click,1784257263
-498,user_049,pure veg thali in hsr layout under 200,1,1,order,1785007166
-499,user_044,pisa under 300,8,5,click,1784812886
-500,user_046,pure veg pizza in koramangala under 200,2,5,click,1784698707
-501,user_014,pizza under 350,2,2,click,1784591061
-502,user_041,biryani under 500,3,1,add_to_cart,1783096366
-503,user_021,noddles chinese,8,1,click,1785279770
-504,user_008,pure veg pizza in indiranagar under 200,2,3,click,1783258362
-505,user_019,veg food under 200,6,2,order,1783923167
-506,user_037,pure veg biryani in indiranagar under 300,4,1,click,1783970468
-507,user_039,crispy breakfast,7,4,click,1784475373
-508,user_045,South Indian dishes,7,3,add_to_cart,1784377427
-509,user_020,burger in Whitefield,6,4,click,1783771420
-510,user_029,biryani without rice,3,2,add_to_cart,1784563369
-511,user_013,pizza under 150,2,2,order,1784981661
-512,user_033,dal makhani,1,1,add_to_cart,1784940951
-513,user_034,Koramangala Punjab Grill,1,4,click,1783623806
-514,user_004,biryani under 500,3,3,click,1784326820
-515,user_024,chinese in Jayanagar,5,1,click,1782943489
-516,user_039,pure veg pizza in indiranagar under 300,2,1,add_to_cart,1784259182
-517,user_048,chinese in Indiranagar,5,1,add_to_cart,1782930433
-518,user_037,biryani under 350,3,3,click,1783759486
-519,user_042,dosa in Jayanagar,7,5,click,1784803805
-520,user_012,bengali sweets special,8,1,click,1783873900
-521,user_046,chinese in Whitefield,5,2,order,1784394350
-522,user_017,pure veg thali in indiranagar under 250,1,1,order,1785266814
-523,user_043,pure veg biryani in hsr layout under 400,6,5,add_to_cart,1784067196
-524,user_005,pure veg thali in hsr layout under 300,1,3,add_to_cart,1783976637
-525,user_042,biryani without chicken,4,3,click,1783053428
-526,user_026,fast fud burger,6,1,click,1784901430
-527,user_027,chinese in Indiranagar,5,1,click,1784254644
-528,user_044,dosa in Koramangala,7,1,add_to_cart,1784943130
-529,user_043,chinese under 350,3,1,add_to_cart,1783224674
-530,user_017,thali without rice,1,3,add_to_cart,1783189848
-531,user_048,burger in Koramangala,7,3,add_to_cart,1784374247
-532,user_030,biryani in Whitefield,8,5,click,1785262987
-533,user_005,crispy breakfast,7,5,click,1784416134
-534,user_004,pure veg thali in hsr layout under 200,3,2,click,1783655402
-535,user_030,shezwan hakka noodles,5,2,click,1784860360
-536,user_021,veg food under 400,1,4,order,1783962557
-537,user_011,KC Das Sweets,8,3,order,1783184570
-538,user_041,pure veg thali in koramangala under 250,1,1,order,1784423043
-539,user_024,burger without mayo,6,1,click,1782890443
-540,user_047,rich gravy curry,1,1,add_to_cart,1783356072
-541,user_038,pure veg pizza in koramangala under 400,2,4,click,1784066048
-542,user_047,pure veg pizza in indiranagar under 250,2,2,order,1783376451
-543,user_023,pure veg pizza in indiranagar under 300,2,1,order,1782895512
-544,user_009,curry without dairy,1,2,click,1783331876
-545,user_003,light south indian breakfast,7,2,click,1785306396
-546,user_007,family biryani bucket,3,1,click,1783300955
-547,user_008,Biryani food,3,1,click,1783677206
-548,user_001,authentic hyderabadi taste,3,2,add_to_cart,1785355512
-549,user_007,pure veg pizza in indiranagar under 200,2,1,add_to_cart,1783293501
-550,user_013,pure veg biryani in koramangala under 400,4,3,click,1784316530
-551,user_011,biryani in Whitefield,4,1,click,1784831348
-552,user_001,paneer butter masala,1,3,order,1783440855
-553,user_033,Koramangala Punjab Grill,1,2,add_to_cart,1783784854
-554,user_017,biryani in Whitefield,4,2,click,1782980740
-555,user_044,Fast Food restaurant,6,3,click,1783007770
-556,user_011,bengali sweets special,8,1,add_to_cart,1783205164
-557,user_012,Chinese dishes,5,1,order,1783955448
-558,user_031,biryani without mutton,3,1,click,1783371091
-559,user_011,garlic naan,1,2,order,1783575559
-560,user_023,Koramangala Punjab Grill,1,2,order,1784862633
-561,user_029,pure veg thali in hsr layout under 200,1,2,add_to_cart,1782867140
-562,user_034,hearty thali meal,1,1,add_to_cart,1784992559
-563,user_040,burger without onion,6,1,order,1784265476
-564,user_025,hot spicy mutton,4,1,click,1783473499
-565,user_032,pure veg thali in koramangala under 300,2,1,order,1784160133
-566,user_004,biryani in BTM Layout,4,2,order,1783800959
-567,user_029,mutton dum biryany,4,1,order,1784140956
-568,user_048,pure veg biryani in koramangala under 400,4,1,order,1784544771
-569,user_039,chinese under 150,5,4,click,1784728772
-570,user_004,Fast Food dishes,6,1,add_to_cart,1785164740
-571,user_031,fast fud burger,6,1,order,1783293546
-572,user_022,paneer butter masala,1,3,add_to_cart,1783261245
-573,user_046,veg food under 300,1,1,click,1783881864
-574,user_008,chinese under 400,7,2,click,1784732287
-575,user_046,chinese under 400,5,3,click,1785284950
-576,user_030,pure veg biryani in indiranagar under 250,4,4,order,1782833491
-577,user_036,peri peri french fries,8,1,click,1785241930
-578,user_007,pizza under 250,2,4,order,1784571305
-579,user_049,pizza without chicken,2,1,add_to_cart,1784049151
-580,user_009,south indian under 250,7,1,add_to_cart,1785137187
-581,user_014,biryani under 500,3,1,add_to_cart,1783371763
-582,user_012,light south indian breakfast,7,5,click,1784292690
-583,user_037,peri peri fry,7,1,add_to_cart,1784586914
-584,user_007,pure veg biryani in indiranagar under 400,4,1,click,1783052715
-585,user_011,Olio Pizza,5,2,click,1783075482
-586,user_014,biryani in Whitefield,4,1,add_to_cart,1784713616
-587,user_048,refreshing cold dessert,8,1,order,1783811845
-588,user_019,noodles without eggs,5,1,order,1784440820
-589,user_021,authentic sourdough crust,1,1,click,1783869499
-590,user_029,Koramangala Punjab Grill,1,1,click,1783626886
-591,user_044,veg food under 400,1,1,click,1784397382
-592,user_009,biryani in Jayanagar,4,2,click,1784201778
-593,user_003,south indian under 300,7,1,click,1785397347
-594,user_032,burger in Whitefield,6,1,click,1784148495
-595,user_034,pizza under 400,2,4,order,1785093141
-596,user_023,chinese under 150,5,1,add_to_cart,1784203891
-597,user_049,biryani in Koramangala,4,2,click,1783296476
-598,user_016,pure veg thali in hsr layout under 250,4,1,click,1784161405
-599,user_025,south indian under 200,7,1,click,1784983198
-600,user_033,Desserts restaurant,8,1,order,1782999225
-601,user_013,light south indian breakfast,7,1,click,1783517402
-602,user_035,CTR Shri Sagar,7,1,click,1783709419
-603,user_007,pure veg thali in indiranagar under 200,1,1,click,1783460191
-604,user_006,steamed idli sambar,7,1,add_to_cart,1785156072
-605,user_027,chinese in Indiranagar,5,1,order,1784142393
-606,user_001,chiken biryani,3,1,click,1783119760
-607,user_007,pure veg pizza in koramangala under 400,2,1,click,1783996067
-608,user_025,pure veg biryani in hsr layout under 250,4,1,order,1783470966
-609,user_048,south indian under 250,7,1,click,1784065437
-610,user_042,curry without dairy,1,2,click,1783332183
-611,user_035,pure veg biryani in koramangala under 200,4,1,add_to_cart,1783696323
-612,user_023,fried rice without pork,5,3,click,1783587019
-613,user_013,dosa in Indiranagar,7,2,order,1785120758
-614,user_007,dosa in Indiranagar,7,1,add_to_cart,1784313244
-615,user_016,crunchy french fries,6,3,click,1784148188
-616,user_040,South Indian dishes,7,4,add_to_cart,1784142095
-617,user_001,chinese under 350,5,1,order,1783975777
-618,user_044,south indian under 250,7,1,order,1784683264
-619,user_032,chinese in Whitefield,5,3,click,1783992286
-620,user_035,veg food under 300,1,2,click,1782893439
-621,user_002,authentic hyderabadi taste,3,1,click,1782969045
-622,user_035,paner butter masala,1,1,add_to_cart,1784461555
-623,user_038,CTR Shri Sagar,7,1,click,1784764395
-624,user_026,chinese under 150,5,1,click,1785390751
-625,user_033,Meghana Foods,3,2,click,1785190772
-626,user_010,rich creamy paneer,1,1,add_to_cart,1782984831
-627,user_015,pure veg biryani in indiranagar under 300,4,1,click,1782994849
-628,user_024,pure veg thali in hsr layout under 400,1,2,click,1782982670
-629,user_007,South Indian food,7,1,add_to_cart,1785242254
-630,user_025,south indian under 350,7,1,click,1784982339
-631,user_034,burger in Koramangala,6,2,order,1784837414
-632,user_033,chicken tikka pizza,8,4,click,1783779949
-633,user_010,south indian under 500,7,1,click,1783781440
-634,user_047,South Indian dishes,7,1,order,1783699054
-635,user_027,bengali sweets special,8,1,click,1785220674
-636,user_041,south indian under 250,7,1,click,1783512984
-637,user_034,biryani under 400,1,1,add_to_cart,1783174953
-638,user_031,indial thali veg,3,1,click,1784538179
-639,user_050,peri peri fry,6,1,click,1784252565
-640,user_038,bengali sweet,8,1,order,1783369840
-641,user_034,biryani under 500,7,1,click,1785354995
-642,user_039,sweet dessert platter,8,1,click,1784837963
-643,user_035,indiranagar chinese,5,1,order,1784368773
-644,user_034,noodles without eggs,5,1,order,1784285476
-645,user_049,thali without rice,1,1,order,1783376844
-646,user_015,Truffles,2,4,add_to_cart,1785324717
-647,user_017,pure veg pizza in hsr layout under 200,2,2,click,1784995337
-648,user_021,biryani without mutton,3,2,click,1784602371
-649,user_017,dosa in Indiranagar,7,3,add_to_cart,1785381711
-650,user_026,classic woodfired pizza,2,1,order,1783564902
-651,user_031,dosa south indian,7,1,add_to_cart,1784485175
-652,user_008,rich creamy paneer,1,1,click,1783235897
-653,user_022,pure veg thali in koramangala under 200,1,2,click,1784447317
-654,user_006,chicken tikka pizza,2,2,order,1783184986
-655,user_039,veg food under 150,1,1,order,1785390456
-656,user_046,burger in BTM Layout,1,1,click,1784888829
-657,user_043,biryani under 500,5,1,click,1782956265
-658,user_034,pure veg biryani in hsr layout under 400,4,1,click,1784324156
-659,user_011,paneer butter masala,1,2,order,1784296422
-660,user_038,pure veg biryani in hsr layout under 200,4,2,click,1783193481
-661,user_036,fried rice without pork,6,1,add_to_cart,1783975055
-662,user_030,south indian under 400,1,5,add_to_cart,1783549447
-663,user_036,pizza under 200,2,2,add_to_cart,1783306069
-664,user_035,burger in Indiranagar,6,1,order,1784396887
-665,user_016,CTR Shri Sagar,7,1,order,1785276626
-666,user_008,pure veg thali in hsr layout under 300,1,1,click,1783779694
-667,user_023,pure veg thali in hsr layout under 200,1,1,add_to_cart,1783856565
-668,user_044,pure veg thali in koramangala under 200,1,1,click,1785141255
-669,user_021,pure veg biryani in hsr layout under 300,4,1,click,1783612918
-670,user_016,biryani under 500,3,1,click,1783776664
-671,user_040,biryani in Indiranagar,4,1,click,1783144498
-672,user_032,family biryani bucket,3,4,order,1784372209
-673,user_037,pure veg thali in indiranagar under 300,8,1,click,1784959147
-674,user_049,dosa in Koramangala,7,1,order,1784821517
-675,user_033,chicken dum biryani,3,1,order,1783320158
-676,user_021,pure veg thali in indiranagar under 250,1,5,click,1784406734
-677,user_024,South Indian restaurant,7,1,click,1785116139
-678,user_031,dosa in Jayanagar,6,1,add_to_cart,1783586687
-679,user_027,chinese under 500,5,5,add_to_cart,1784495505
-680,user_037,biryani under 400,3,3,click,1783947546
-681,user_028,dosa south indian,4,3,click,1783442548
-682,user_012,hyderabadi chicken biryani,3,1,add_to_cart,1784856331
-683,user_037,sweet dessert,8,1,click,1783067108
-684,user_031,burger in Indiranagar,6,2,order,1784218949
-685,user_036,Fast Food restaurant,6,4,add_to_cart,1782898493
-686,user_044,Italian restaurant,4,2,click,1784009033
-687,user_033,refreshing cold dessert,8,2,click,1784413625
-688,user_041,pure veg biryani in koramangala under 300,3,1,add_to_cart,1784584524
-689,user_026,mutton dum biryany,4,2,click,1783494773
-690,user_021,North Indian restaurant,1,1,order,1783952994
-691,user_024,Koramangala Punjab Grill,1,1,order,1783517081
-692,user_009,veg cheese burger,6,1,click,1783698498
-693,user_007,biryani under 200,3,1,click,1782925880
-694,user_049,pure veg pizza in indiranagar under 400,2,1,add_to_cart,1783466565
-695,user_020,Biryani dishes,3,1,order,1783345507
-696,user_002,chinese under 350,5,2,add_to_cart,1784812435
-697,user_018,biryany in hsr,3,1,click,1785293422
-698,user_048,authentic hyderabadi taste,3,2,add_to_cart,1784271427
-699,user_006,chinese in Koramangala,5,1,order,1783905007
-700,user_001,hyderabadi chicken biryani,3,1,add_to_cart,1784018066
-701,user_045,hyderabadi chicken biryani,8,1,add_to_cart,1782853602
-702,user_039,chinese in BTM Layout,5,1,add_to_cart,1783606222
-703,user_028,sweet dessert,8,1,order,1784402246
-704,user_028,veg food under 150,1,1,add_to_cart,1785046433
-705,user_013,pure veg thali in hsr layout under 200,3,1,click,1784029948
-706,user_040,pure veg pizza in indiranagar under 250,2,5,click,1784160175
-707,user_007,pizza under 400,2,1,order,1782849708
-708,user_001,chinese under 300,5,3,order,1784122145
-709,user_024,pure veg biryani in koramangala under 400,4,1,add_to_cart,1783151778
-710,user_004,pizza under 300,2,2,click,1785093610
-711,user_017,south indian under 400,7,2,click,1783859521
-712,user_016,pure veg pizza in hsr layout under 250,2,2,click,1784748178
-713,user_034,south indian under 150,7,1,order,1784447397
-714,user_021,North Indian food,1,1,click,1783877768
-715,user_013,dosa in Whitefield,7,1,click,1783288954
-716,user_021,pure veg thali in koramangala under 250,1,4,click,1784475438
-717,user_003,hyderabadi chicken biryani,3,3,click,1784373056
-718,user_011,biryani in Indiranagar,4,5,click,1783066013
-719,user_045,south indian under 300,7,1,click,1784861459
-720,user_042,dosa south indian,7,2,click,1782904858
-721,user_047,Fast Food food,6,4,order,1784650306
-722,user_045,biryany in hsr,3,1,add_to_cart,1784172913
-723,user_039,chinese in Jayanagar,3,1,click,1785043049
-724,user_017,biryani in Whitefield,4,2,click,1784937438
-725,user_002,pizza under 400,2,2,click,1784160386
-726,user_035,rich creamy paneer,1,3,order,1785128321
-727,user_021,dosa in BTM Layout,7,1,click,1783219026
-728,user_003,spring rolls,5,3,click,1782946469
-729,user_013,pure veg biryani in indiranagar under 300,4,1,order,1785020752
-730,user_017,north indan thali,1,1,click,1782870185
-731,user_042,chinese under 500,5,1,order,1783069893
-732,user_027,biryani without rice,3,3,add_to_cart,1785034172
-733,user_034,biryani in Koramangala,4,2,order,1783609952
-734,user_016,rich creamy paneer,1,1,order,1783257856
-735,user_023,margherita pisa,2,1,click,1783514946
-736,user_026,chese burger,6,3,order,1784293052
-737,user_021,chese burger,6,1,order,1784171949
-738,user_035,hyderabdi biryani,3,3,add_to_cart,1784712815
-739,user_001,pure veg pizza in koramangala under 200,2,1,click,1784986309
-740,user_001,burger in Whitefield,6,1,click,1784136103
-741,user_018,biryani without mutton,3,1,click,1782973575
-742,user_009,south indian under 300,7,1,click,1783890062
-743,user_037,chinese under 150,5,2,click,1784177155
-744,user_032,south indian under 350,7,1,add_to_cart,1782972045
-745,user_025,margherita pisa,2,1,add_to_cart,1784274623
-746,user_027,pure veg thali in koramangala under 250,2,4,click,1785341534
-747,user_050,quick bite burger,6,1,add_to_cart,1785014721
-748,user_021,chinese under 300,5,1,click,1783027193
-749,user_029,pure veg biryani in koramangala under 200,4,4,click,1784626967
-750,user_010,pure veg biryani in koramangala under 200,4,2,order,1785212093
-751,user_026,chese burger,6,1,order,1783362131
-752,user_036,pure veg thali in hsr layout under 300,1,4,click,1785169005
-753,user_034,sweets without dairy,8,2,add_to_cart,1784619124
-754,user_006,margherita pisa,2,1,order,1784347341
-755,user_023,South Indian food,7,1,add_to_cart,1783525206
-756,user_029,sweet dessert platter,8,3,click,1783794624
-757,user_010,Desserts restaurant,8,2,click,1783044047
-758,user_010,crispy breakfast,5,1,click,1784255082
-759,user_020,chinese under 200,5,4,add_to_cart,1783691947
-760,user_014,south indian under 500,7,3,order,1783408152
-761,user_002,spicy schezwan gravy,5,1,add_to_cart,1783529670
-762,user_040,noodles without eggs,5,1,click,1783094629
-763,user_043,burger in Jayanagar,6,1,click,1782895318
-764,user_025,light south indian breakfast,7,2,click,1784138416
-765,user_035,bengali sweet,8,1,order,1785166991
-766,user_003,veg cheese burger,6,2,add_to_cart,1784870225
-767,user_002,veg food under 350,1,2,add_to_cart,1784083346
-768,user_018,pure veg pizza in koramangala under 400,2,3,order,1782938886
-769,user_015,biryani in BTM Layout,4,1,click,1783183536
-770,user_044,pure veg biryani in indiranagar under 400,4,3,order,1783823444
-771,user_020,pure veg biryani in koramangala under 250,6,1,order,1785089591
-772,user_009,crunchy french fries,6,3,click,1784111331
-773,user_009,pure veg pizza in indiranagar under 400,2,1,click,1784146973
-774,user_008,dosa without potato,7,1,click,1784151970
-775,user_027,pure veg thali in hsr layout under 200,1,3,click,1783603548
-776,user_002,pizza under 400,2,1,click,1785316616
-777,user_002,authentic sourdough crust,2,1,click,1784922200
-778,user_046,pure veg thali in koramangala under 300,1,2,order,1784876570
-779,user_013,biryani under 350,3,2,click,1783947167
-780,user_048,dosa in Koramangala,7,2,click,1783092693
-781,user_040,pure veg biryani in hsr layout under 250,4,2,order,1783850384
-782,user_003,KC Das Sweets,8,1,add_to_cart,1784468485
-783,user_037,biryani without rice,3,1,click,1784709485
-784,user_016,chicken fried rice,5,1,click,1785154465
-785,user_041,Mainland China,4,1,add_to_cart,1784658920
-786,user_050,burger in Whitefield,6,4,click,1784587232
-787,user_045,mishti doi,8,2,order,1784709857
-788,user_050,biryani under 400,3,1,order,1784549891
-789,user_012,masala dosa,7,1,order,1783193538
-790,user_042,pizza without chicken,3,4,click,1783197781
-791,user_041,pure veg biryani in indiranagar under 250,4,1,click,1784403591
-792,user_050,margherita pizza,2,2,click,1783495295
-793,user_050,veg food under 400,1,1,add_to_cart,1784113511
-794,user_019,pure veg thali in hsr layout under 250,1,2,click,1783666119
-795,user_030,mutton dum biryani,4,1,click,1785365367
-796,user_014,dosa in HSR Layout,7,3,order,1784535597
-797,user_039,fast fud burger,6,4,click,1783020478
-798,user_042,dal makhani,1,2,click,1785239994
-799,user_022,dosa in Whitefield,1,2,click,1784564142
-800,user_044,biryani under 350,3,4,order,1785243658
-801,user_006,steamed idli sambar,7,2,add_to_cart,1784404684
-802,user_028,Empire Restaurant,4,1,add_to_cart,1784790046
-803,user_018,pizza without chicken,2,2,click,1783692121
-804,user_037,pizza under 200,2,2,order,1785351920
-805,user_019,thali without garlic,1,1,add_to_cart,1785018948
-806,user_023,cheesy meal,8,2,order,1784881011
-807,user_015,spicy noodles,5,4,click,1783311094
-808,user_048,veg food under 250,1,4,order,1783006106
-809,user_041,sweet dessert,8,1,add_to_cart,1783882402
-810,user_020,chinese in Whitefield,5,1,click,1783292763
-811,user_026,Chinese dishes,5,5,click,1783629058
-812,user_044,Chinese restaurant,5,3,click,1783384691
-813,user_030,rich gravy curry,6,1,order,1784551542
-814,user_034,dal makhani,1,4,click,1783688814
-815,user_023,South Indian dishes,7,3,add_to_cart,1782946047
-816,user_041,Desserts dishes,8,1,order,1783601222
-817,user_020,Olio Pizza,2,2,click,1783954040
-818,user_016,pure veg biryani in koramangala under 400,4,1,click,1785017728
-819,user_024,chinese under 200,5,1,click,1784676621
-820,user_033,pure veg thali in hsr layout under 300,1,1,order,1785011552
-821,user_010,South Indian restaurant,7,3,click,1783675915
-822,user_025,pure veg thali in indiranagar under 250,1,1,click,1784119648
-823,user_039,authentic sourdough crust,6,1,order,1783008822
-824,user_043,Truffles,6,1,add_to_cart,1783695454
-825,user_019,south indian under 400,7,1,order,1783308761
-826,user_018,veg food under 350,1,4,click,1785090828
-827,user_018,North Indian dishes,1,1,click,1783533677
-828,user_035,Chinese restaurant,5,1,click,1784789706
-829,user_007,peri peri french fries,6,2,order,1784459116
-830,user_038,bengali sweet,8,1,add_to_cart,1784125769
-831,user_046,veg food under 500,1,1,order,1785196778
-832,user_030,noodles without eggs,5,1,order,1784788910
-833,user_010,burger in Koramangala,5,1,add_to_cart,1784459787
-834,user_022,loaded pizza slice,2,1,order,1784860049
-835,user_031,Italian restaurant,2,1,add_to_cart,1784277497
-836,user_033,pizza under 250,2,1,add_to_cart,1785147959
-837,user_035,burger in Whitefield,6,4,click,1783837412
-838,user_025,pure veg thali in hsr layout under 300,1,1,order,1784641303
-839,user_035,Chinese dishes,5,2,click,1785223618
-840,user_038,south indian under 200,7,2,click,1784682670
-841,user_005,pure veg biryani in hsr layout under 200,4,1,add_to_cart,1784888522
-842,user_006,garlic naan,1,2,click,1783430708
-843,user_035,pure veg biryani in indiranagar under 250,4,1,click,1783677905
-844,user_020,North Indian dishes,1,5,order,1784259248
-845,user_001,peri peri fry,6,1,click,1784049197
-846,user_001,mishti doi,8,1,click,1783998969
-847,user_028,dosa in HSR Layout,7,1,add_to_cart,1784420834
-848,user_035,pure veg thali in koramangala under 250,1,5,order,1783398595
-849,user_024,Biryani restaurant,3,1,add_to_cart,1783341889
-850,user_042,gulab jamun,8,2,order,1783384782
-851,user_030,pure veg biryani in indiranagar under 200,7,1,click,1784721166
-852,user_029,noddles chinese,5,2,click,1784596920
-853,user_032,margherita pisa,2,1,add_to_cart,1784538476
-854,user_024,margherita pisa,2,4,order,1784361228
-855,user_045,pure veg thali in hsr layout under 300,1,1,order,1784983541
-856,user_016,pizza under 150,2,1,add_to_cart,1785386570
-857,user_001,Koramangala Punjab Grill,1,1,add_to_cart,1784581167
-858,user_019,biryani in Whitefield,4,1,add_to_cart,1783072902
-859,user_011,kesari rasgulla,8,2,click,1784018290
-860,user_033,pizza under 250,2,1,add_to_cart,1783371205
-861,user_017,chinese in Jayanagar,5,3,click,1785297361
-862,user_029,rich creamy paneer,1,1,add_to_cart,1783805975
-863,user_003,pure veg thali in indiranagar under 400,1,1,click,1785313190
-864,user_032,south indian under 300,7,1,order,1783813321
-865,user_041,fried rice without pork,5,1,click,1783924253
-866,user_004,south indian under 200,7,2,order,1784079323
-867,user_035,Olio Pizza,2,1,order,1783916827
-868,user_001,pure veg thali in koramangala under 250,1,1,order,1784139392
-869,user_003,classic woodfired pizza,2,3,order,1785375860
-870,user_022,burger in Jayanagar,6,4,add_to_cart,1785265513
-871,user_044,CTR Shri Sagar,7,1,add_to_cart,1783569923
-872,user_044,hyderabadi chicken biryani,3,1,click,1784540200
-873,user_023,pure veg thali in hsr layout under 250,1,2,add_to_cart,1783625132
-874,user_039,dal makhani,1,1,click,1783318518
-875,user_043,Desserts dishes,8,1,click,1783588153
-876,user_043,pure veg pizza in koramangala under 300,8,1,add_to_cart,1784606196
-877,user_050,loaded pizza slice,2,2,click,1783125664
-878,user_025,garlic naan,1,2,add_to_cart,1783925382
-879,user_032,spring rolls,4,1,order,1783563738
-880,user_010,pizza under 200,2,1,click,1785390459
-881,user_046,pure veg pizza in hsr layout under 250,2,1,click,1783110628
-882,user_050,dosa in Indiranagar,7,2,click,1782818937
-883,user_025,loaded pizza slice,2,1,order,1785225513
-884,user_032,CTR Shri Sagar,7,1,click,1785080762
-885,user_045,Biryani restaurant,3,3,click,1785194491
-886,user_022,Fast Food food,6,1,click,1783195582
-887,user_006,Chinese dishes,5,2,click,1783556088
-888,user_043,Biryani restaurant,3,1,click,1784322148
-889,user_029,authentic hyderabadi taste,3,1,click,1783625187
-890,user_032,burger in HSR Layout,6,1,order,1785054804
-891,user_002,pure veg biryani in indiranagar under 250,4,2,add_to_cart,1782994875
-892,user_042,south indian under 500,7,3,click,1785245250
-893,user_003,gulab jamun,8,3,click,1784791736
-894,user_003,crispy breakfast,7,1,click,1783537762
-895,user_007,chinese in Whitefield,5,2,click,1783261283
-896,user_040,bengali sweet,8,1,order,1784230217
-897,user_044,sweets without dairy,8,1,click,1784164143
-898,user_049,south indian under 500,7,4,add_to_cart,1783080469
-899,user_049,biryani under 300,3,1,click,1784655176
-900,user_003,kesari rasgulla,8,1,click,1782880856
-901,user_001,veg food under 150,1,1,add_to_cart,1784561060
-902,user_031,CTR Shri Sagar,7,1,click,1783951743
-903,user_016,pure veg thali in hsr layout under 200,1,1,click,1784911978
-904,user_041,pizza under 150,2,2,add_to_cart,1784571813
-905,user_034,veg food under 250,6,1,click,1784762361
-906,user_014,rich creamy paneer,1,4,click,1783441161
-907,user_032,pure veg biryani in hsr layout under 300,4,3,click,1784342834
+1,user_048,masala dosa,7,1,click,1783249032
+2,user_006,paner butter masala,1,4,click,1783212123
+3,user_039,pure veg thali in koramangala under 400,1,2,order,1783743731
+4,user_001,biryani in BTM Layout,4,2,order,1784246251
+5,user_049,biryani in Koramangala,4,1,order,1783224794
+6,user_039,Italian food,2,1,order,1785068240
+7,user_006,Desserts dishes,8,1,click,1783110872
+8,user_006,chinese in BTM Layout,2,3,order,1783985042
+9,user_011,Fast Food dishes,6,2,add_to_cart,1783118620
+10,user_035,chinese under 350,5,2,order,1784410688
+11,user_045,traditional north meal,1,1,click,1783779834
+12,user_026,North Indian restaurant,1,5,add_to_cart,1783710957
+13,user_042,pure veg pizza in koramangala under 200,2,3,click,1783853567
+14,user_017,pisa under 300,2,1,order,1784337460
+15,user_033,veg food under 300,1,1,click,1783460199
+16,user_028,classic woodfired pizza,2,1,order,1785318474
+17,user_017,pure veg thali in indiranagar under 400,1,1,click,1785071353
+18,user_042,Truffles,6,1,order,1783482498
+19,user_047,dosa without potato,7,1,click,1784070905
+20,user_039,pure veg thali in koramangala under 400,1,1,click,1785081456
+21,user_001,pure veg thali in indiranagar under 400,1,2,click,1783288344
+22,user_016,chinese in Whitefield,5,1,click,1784857528
+23,user_035,Empire Restaurant,4,1,order,1785125180
+24,user_039,pure veg thali in indiranagar under 400,1,1,click,1784126569
+25,user_042,spicy schezwan gravy,5,1,click,1783858928
+26,user_002,Chinese restaurant,5,3,click,1782849297
+27,user_005,chinese in Koramangala,6,1,click,1784975664
+28,user_032,spicy schezwan gravy,5,1,order,1783838341
+29,user_013,pure veg pizza in hsr layout under 200,2,2,add_to_cart,1784595754
+30,user_004,curry without dairy,1,1,click,1784507853
+31,user_016,pizza under 200,2,2,click,1784588636
+32,user_016,pure veg biryani in koramangala under 300,2,1,order,1785127368
+33,user_001,biryany in hsr,4,1,click,1784523761
+34,user_026,south indian under 500,3,4,order,1782828177
+35,user_030,biryani in Jayanagar,4,5,click,1783615626
+36,user_038,dal makhani,1,3,add_to_cart,1783058905
+37,user_011,pure veg thali in indiranagar under 400,1,1,click,1783106536
+38,user_016,refreshing cold dessert,8,1,click,1783163000
+39,user_037,peri peri fry,6,2,click,1784136919
+40,user_009,pure veg pizza in koramangala under 200,2,1,order,1784145280
+41,user_001,gulab jamun,8,1,click,1785074139
+42,user_009,biryani in Jayanagar,2,1,click,1784369045
+43,user_035,pure veg biryani in hsr layout under 250,4,1,add_to_cart,1783253610
+44,user_017,south indian under 250,7,4,click,1783961448
+45,user_046,chinese under 500,5,1,order,1783872415
+46,user_006,mishti doi,8,2,click,1782834008
+47,user_041,chinese under 250,3,1,order,1785133052
+48,user_001,sweet dessert,8,1,click,1784367741
+49,user_028,pizza under 300,2,1,add_to_cart,1782986468
+50,user_044,chinese under 500,5,1,add_to_cart,1785167458
+51,user_040,pure veg pizza in hsr layout under 200,2,5,click,1783561748
+52,user_012,masala dosa,7,3,order,1783860025
+53,user_007,burger without onion,6,4,order,1783752091
+54,user_023,pure veg thali in indiranagar under 250,1,4,click,1782918392
+55,user_022,pure veg thali in koramangala under 200,1,2,add_to_cart,1784291950
+56,user_044,pure veg thali in koramangala under 200,6,4,click,1783302915
+57,user_012,chinese in Indiranagar,5,1,click,1783273810
+58,user_047,Italian food,2,1,click,1784434763
+59,user_017,chinese under 400,5,1,click,1784999840
+60,user_044,pisa under 300,2,1,add_to_cart,1784628129
+61,user_040,South Indian dishes,7,1,add_to_cart,1784946162
+62,user_021,pure veg pizza in hsr layout under 200,2,1,click,1783623772
+63,user_044,Biryani food,3,3,add_to_cart,1784522339
+64,user_020,paneer butter masala,1,1,add_to_cart,1784769438
+65,user_014,refreshing cold dessert,8,1,click,1784009423
+66,user_040,quick bite burger,6,1,add_to_cart,1783761348
+67,user_002,pizza under 300,2,1,click,1784729290
+68,user_037,authentic hyderabadi taste,3,3,order,1784495402
+69,user_045,crunchy french fries,6,1,order,1783737023
+70,user_034,noodles without eggs,5,5,click,1784733676
+71,user_043,pure veg biryani in koramangala under 300,4,3,order,1785388787
+72,user_028,pure veg thali in koramangala under 400,1,1,click,1784810065
+73,user_016,Olio Pizza,2,1,order,1783822606
+74,user_046,cold coffee,6,3,add_to_cart,1784160096
+75,user_009,veg food under 150,1,2,click,1783716520
+76,user_030,biryany in hsr,3,2,order,1784452721
+77,user_045,peri peri fry,6,3,order,1782843866
+78,user_049,dosa in Whitefield,7,1,click,1784866919
+79,user_032,pure veg thali in koramangala under 250,1,1,order,1783511384
+80,user_040,pizza under 250,2,1,click,1783171238
+81,user_030,south indian under 250,7,3,order,1784192153
+82,user_022,South Indian restaurant,7,2,add_to_cart,1784587308
+83,user_031,veg food under 150,1,1,add_to_cart,1783759592
+84,user_042,Koramangala Punjab Grill,1,1,click,1783655316
+85,user_010,cheesy meal,6,1,click,1785184596
+86,user_045,pure veg pizza in koramangala under 300,2,1,click,1785360435
+87,user_046,Punjab Grill,1,2,add_to_cart,1783272536
+88,user_037,North Indian food,1,2,order,1783650992
+89,user_016,rich gravy curry,1,3,click,1785192830
+90,user_035,Italian food,2,1,click,1784941290
+91,user_027,mutton dum biryani,4,1,order,1784338263
+92,user_046,pure veg thali in indiranagar under 250,1,2,add_to_cart,1785402460
+93,user_050,pisa under 300,2,2,add_to_cart,1784170980
+94,user_018,pizza under 150,4,2,order,1785209259
+95,user_022,Biryani food,3,3,click,1784864069
+96,user_022,chinese in Indiranagar,5,1,click,1784986028
+97,user_016,biryani under 150,3,1,click,1784816016
+98,user_029,pure veg pizza in indiranagar under 300,2,1,add_to_cart,1783748579
+99,user_020,chinese in HSR Layout,5,1,order,1785140570
+100,user_048,pure veg thali in indiranagar under 200,1,1,order,1783955442
+101,user_008,biryani in HSR Layout,4,1,click,1785066713
+102,user_012,biryani without mutton,3,2,add_to_cart,1785292043
+103,user_039,pure veg pizza in indiranagar under 400,2,1,click,1784061684
+104,user_020,veg food under 400,1,1,add_to_cart,1783010043
+105,user_019,noddles chinese,5,4,order,1783249420
+106,user_019,mutton dum biryany,4,1,add_to_cart,1783592414
+107,user_031,dosa in Indiranagar,7,1,order,1784881671
+108,user_010,mishti doi,8,2,click,1783860125
+109,user_027,Mainland China,5,1,order,1784708731
+110,user_038,dosa in Whitefield,5,1,click,1785376114
+111,user_049,veg food under 200,1,1,add_to_cart,1783159661
+112,user_036,south indian under 350,7,1,order,1784708686
+113,user_019,pure veg thali in koramangala under 300,1,4,add_to_cart,1784723482
+114,user_041,biryani in Jayanagar,4,3,order,1783300543
+115,user_010,bengali sweets special,3,2,click,1783069277
+116,user_039,chinese in Whitefield,5,3,order,1783340714
+117,user_045,burger in Whitefield,6,3,order,1784655230
+118,user_039,South Indian food,7,1,click,1785231696
+119,user_049,veg cheese burger,6,4,click,1783553940
+120,user_029,light south indian breakfast,3,1,order,1784881584
+121,user_023,pure veg thali in koramangala under 300,1,3,click,1783493685
+122,user_032,pizza without chicken,2,4,click,1784726815
+123,user_050,south indian under 200,7,1,order,1784552422
+124,user_049,cheesy meal,6,1,click,1783672922
+125,user_019,chinese under 250,5,1,click,1782940224
+126,user_016,indial thali veg,1,1,click,1785135447
+127,user_008,burger in Koramangala,6,3,click,1784909475
+128,user_033,chinese in BTM Layout,5,3,order,1784799770
+129,user_010,noddles chinese,5,1,click,1783977802
+130,user_022,pure veg biryani in indiranagar under 200,5,1,click,1784005449
+131,user_038,steamed idly,8,1,click,1784692092
+132,user_022,Italian food,2,1,order,1784168769
+133,user_016,noodles without eggs,5,1,order,1783002207
+134,user_046,pure veg biryani in hsr layout under 300,7,1,order,1783457112
+135,user_009,steamed idli sambar,7,4,click,1784665915
+136,user_047,mutton dum biryani,4,1,click,1784788323
+137,user_022,biryani in Jayanagar,4,1,click,1784197240
+138,user_025,chiken biryani,8,2,click,1785408949
+139,user_015,burger in BTM Layout,6,1,click,1783240694
+140,user_020,pizza without chicken,1,5,add_to_cart,1783054518
+141,user_028,Desserts restaurant,8,5,click,1783532100
+142,user_025,spicy noodles,5,1,order,1785265075
+143,user_041,pure veg biryani in koramangala under 300,4,1,click,1784770550
+144,user_035,hearty thali meal,1,1,add_to_cart,1785283591
+145,user_045,pure veg thali in indiranagar under 200,1,1,click,1784432657
+146,user_016,pizza under 200,2,1,add_to_cart,1784057424
+147,user_018,pure veg pizza in koramangala under 200,2,2,order,1784019522
+148,user_039,chinese in Koramangala,5,1,click,1783870341
+149,user_050,dosa without potato,7,1,click,1782984487
+150,user_003,pure veg biryani in hsr layout under 250,4,1,click,1784056919
+151,user_012,pure veg biryani in indiranagar under 200,4,4,add_to_cart,1783509286
+152,user_019,pure veg thali in hsr layout under 300,1,1,click,1784783461
+153,user_049,biryani under 300,7,1,add_to_cart,1783197894
+154,user_017,mutton dum biryani,4,1,add_to_cart,1783918721
+155,user_024,traditional north meal,1,5,order,1782924097
+156,user_021,sweet dessert,4,1,click,1784766416
+157,user_042,burger in Whitefield,6,2,click,1782975215
+158,user_008,pure veg thali in indiranagar under 300,1,2,order,1784721856
+159,user_045,biryani without rice,7,1,click,1784559288
+160,user_040,pure veg pizza in indiranagar under 300,2,2,click,1784373252
+161,user_016,pure veg pizza in hsr layout under 250,2,1,add_to_cart,1785102792
+162,user_023,bengali sweets special,8,2,click,1783331511
+163,user_006,pure veg pizza in indiranagar under 250,2,2,click,1784217975
+164,user_037,pizza under 250,2,1,click,1783796404
+165,user_039,pizza under 300,2,1,click,1785084964
+166,user_008,south indian under 350,7,3,click,1782881465
+167,user_038,dosa in HSR Layout,7,1,add_to_cart,1783038914
+168,user_034,pure veg pizza in indiranagar under 200,2,1,order,1784699339
+169,user_038,pure veg pizza in hsr layout under 400,2,1,click,1785006261
+170,user_002,hot spicy mutton,4,2,order,1784607058
+171,user_046,pure veg pizza in indiranagar under 300,2,2,click,1784170171
+172,user_009,tandoori chicken,3,1,order,1785324780
+173,user_033,pure veg pizza in indiranagar under 250,2,1,click,1785131604
+174,user_028,biryani in Koramangala,4,1,order,1784240719
+175,user_027,pure veg thali in koramangala under 200,1,2,order,1784129955
+176,user_010,Desserts restaurant,8,1,click,1783201761
+177,user_028,chinese under 150,5,2,click,1785152725
+178,user_022,sweet dessert,8,1,add_to_cart,1784593062
+179,user_004,dosa without potato,5,4,add_to_cart,1783253669
+180,user_010,south indian under 500,7,1,click,1784287621
+181,user_008,Desserts food,8,1,order,1785171997
+182,user_040,cheesy meal,2,1,add_to_cart,1782940575
+183,user_049,burger without onion,6,4,add_to_cart,1782844746
+184,user_037,biryani under 300,3,3,click,1782947722
+185,user_027,Desserts dishes,8,1,add_to_cart,1784126238
+186,user_037,KC Das Sweets,8,2,click,1783479361
+187,user_044,peri peri french fries,6,3,order,1784856149
+188,user_018,pure veg biryani in indiranagar under 200,4,2,add_to_cart,1784622325
+189,user_044,hearty thali meal,1,1,click,1783744058
+190,user_004,fast fud burger,6,1,click,1783394741
+191,user_021,chinese in BTM Layout,5,1,order,1783556054
+192,user_046,chiken biryani,3,4,click,1784484574
+193,user_028,chicken fried rice,5,4,add_to_cart,1785234045
+194,user_046,pure veg biryani in hsr layout under 200,4,2,click,1784517965
+195,user_030,crispy breakfast,7,1,click,1784650838
+196,user_028,chinese in HSR Layout,5,1,order,1784120522
+197,user_022,dosa in Koramangala,7,2,click,1785044654
+198,user_023,KC Das Sweets,8,4,click,1783250330
+199,user_012,veg food under 500,1,3,click,1784891614
+200,user_049,hyderabdi biryani,3,3,add_to_cart,1783452298
+201,user_029,pure veg thali in koramangala under 300,1,2,click,1784295289
+202,user_030,North Indian food,1,1,add_to_cart,1784023225
+203,user_040,chinese under 150,5,1,order,1785253214
+204,user_003,thali without rice,1,4,add_to_cart,1785356715
+205,user_004,chinese under 300,5,2,click,1784935368
+206,user_016,chicken fried rice,5,1,click,1784345435
+207,user_025,dosa in BTM Layout,7,1,click,1784222758
+208,user_017,dosa in BTM Layout,7,2,add_to_cart,1783160981
+209,user_023,biryani under 300,3,1,click,1785314920
+210,user_020,biryani under 150,3,1,click,1785026990
+211,user_024,pure veg biryani in hsr layout under 400,4,1,click,1783717526
+212,user_032,Truffles,6,2,click,1783142790
+213,user_033,veg food under 200,1,2,add_to_cart,1783368796
+214,user_011,south indian under 300,7,1,order,1783002396
+215,user_047,hearty thali meal,1,2,add_to_cart,1784702077
+216,user_020,burger in HSR Layout,8,1,click,1784361973
+217,user_029,mutton dum biryany,4,1,order,1784928480
+218,user_013,biryani under 350,3,2,add_to_cart,1783037994
+219,user_036,Desserts restaurant,2,2,add_to_cart,1783170934
+220,user_029,burger in Jayanagar,3,3,order,1783203811
+221,user_029,dosa in Koramangala,1,2,order,1783042512
+222,user_016,Desserts restaurant,8,2,add_to_cart,1783760920
+223,user_042,biryani without chicken,4,1,click,1782979792
+224,user_045,pure veg thali in koramangala under 300,1,1,order,1785400094
+225,user_036,chinese under 300,7,1,click,1784027522
+226,user_004,biryani under 250,3,1,click,1783284108
+227,user_039,pure veg biryani in koramangala under 400,4,5,click,1784040820
+228,user_023,sweet dessert platter,8,1,click,1783178227
+229,user_005,Fast Food restaurant,1,4,order,1784791026
+230,user_017,Desserts restaurant,8,2,click,1784265343
+231,user_041,rich creamy paneer,1,3,click,1783005094
+232,user_042,Chinese restaurant,5,1,order,1783583666
+233,user_046,tandoori chicken,3,2,click,1784049924
+234,user_003,biryani under 500,3,1,order,1785096772
+235,user_049,steamed idli sambar,7,1,add_to_cart,1783019641
+236,user_018,South Indian dishes,7,2,order,1784496949
+237,user_022,Biryani restaurant,8,1,order,1784359901
+238,user_018,pure veg thali in hsr layout under 400,1,1,click,1784625234
+239,user_035,biryani under 400,3,2,click,1784194532
+240,user_029,chinese in Whitefield,5,1,click,1784681023
+241,user_047,chicken fried rice,6,4,order,1783970705
+242,user_005,dal makhani,1,4,add_to_cart,1784971175
+243,user_011,hearty thali meal,3,4,order,1782965094
+244,user_050,dosa in HSR Layout,7,1,order,1785198333
+245,user_024,pure veg biryani in indiranagar under 250,4,1,click,1785039852
+246,user_042,North Indian restaurant,1,4,click,1783599479
+247,user_036,Biryani dishes,3,1,order,1783719110
+248,user_045,burger in BTM Layout,8,5,click,1783333515
+249,user_029,gulab jamun,8,5,click,1784159585
+250,user_005,desserts without sugar,8,3,add_to_cart,1783479761
+251,user_041,burger without onion,6,1,click,1783328168
+252,user_016,veg food under 300,1,1,add_to_cart,1785142871
+253,user_036,pure veg pizza in koramangala under 300,2,3,click,1784116396
+254,user_047,pizza without cheese,2,1,order,1785230444
+255,user_005,hot spicy mutton,4,1,click,1785131471
+256,user_050,biryani under 400,7,2,click,1783339906
+257,user_011,burger in Whitefield,6,4,add_to_cart,1784995552
+258,user_017,veg food under 150,1,2,click,1784089275
+259,user_033,chinese under 150,5,2,click,1785357273
+260,user_003,hyderabdi biryani,3,1,click,1783009817
+261,user_037,CTR Shri Sagar,7,2,order,1782946165
+262,user_035,rich gravy curry,1,5,order,1783846229
+263,user_026,authentic sourdough crust,2,1,click,1783482174
+264,user_030,pure veg thali in hsr layout under 300,1,1,add_to_cart,1784158447
+265,user_026,Italian food,2,3,click,1784157606
+266,user_018,biryani under 250,3,2,click,1783031390
+267,user_040,Biryani restaurant,3,2,add_to_cart,1785242132
+268,user_049,chinese under 400,5,2,order,1784113249
+269,user_026,chinese under 150,5,1,click,1785265859
+270,user_019,peri peri french fries,6,1,add_to_cart,1785070181
+271,user_017,south indian under 250,7,3,add_to_cart,1783008897
+272,user_036,shezwan hakka noodles,5,3,click,1784439601
+273,user_036,Mainland China,5,3,click,1783224648
+274,user_036,Chinese restaurant,3,4,click,1785346049
+275,user_003,pure veg pizza in koramangala under 400,2,1,add_to_cart,1784806163
+276,user_039,chinese under 300,3,1,add_to_cart,1785390531
+277,user_040,pure veg biryani in koramangala under 200,4,3,add_to_cart,1784946970
+278,user_032,chiken biryani,3,2,order,1782888917
+279,user_008,refreshing cold dessert,5,2,click,1785322757
+280,user_050,crunchy french fries,6,3,click,1785266611
+281,user_041,pure veg pizza in indiranagar under 400,2,4,click,1783834983
+282,user_013,chinese under 200,5,1,order,1783454285
+283,user_027,pizza under 500,2,1,click,1783398296
+284,user_021,sweet dessert,8,1,order,1784135110
+285,user_035,pure veg thali in indiranagar under 250,1,2,add_to_cart,1785377983
+286,user_018,biryani in Indiranagar,4,1,add_to_cart,1784031308
+287,user_046,biryani without mutton,3,1,add_to_cart,1785169992
+288,user_018,dosa without potato,7,1,order,1784266736
+289,user_019,pizza under 300,2,1,add_to_cart,1784674596
+290,user_031,Punjab Grill,1,2,add_to_cart,1783394901
+291,user_038,thali without rice,1,1,click,1783795724
+292,user_031,pizza without cheese,2,1,click,1785127482
+293,user_027,veg food under 350,1,3,order,1783655715
+294,user_021,burger in BTM Layout,6,1,click,1785227226
+295,user_047,thali without rice,1,1,click,1784571873
+296,user_003,veg food under 400,7,1,order,1783600584
+297,user_003,chinese in BTM Layout,5,2,add_to_cart,1784012675
+298,user_035,hot spicy mutton,4,1,order,1783963498
+299,user_022,chinese under 200,5,2,add_to_cart,1783600112
+300,user_037,biryani in Whitefield,4,1,click,1785381665
+301,user_028,pure veg biryani in hsr layout under 200,4,1,order,1783219211
+302,user_031,veg food under 300,1,1,click,1783912949
+303,user_049,pure veg thali in hsr layout under 250,1,1,add_to_cart,1785262154
+304,user_017,hyderabadi chicken biryani,3,2,click,1783315007
+305,user_026,veg food under 350,1,2,click,1784056614
+306,user_015,dosa in Koramangala,8,5,click,1784727455
+307,user_024,indial thali veg,1,1,click,1783857082
+308,user_006,bengali sweet,8,1,click,1785185432
+309,user_033,chese burger,6,3,click,1784195362
+310,user_008,pure veg pizza in hsr layout under 250,2,1,click,1784959806
+311,user_030,dal makhani,1,1,order,1785184351
+312,user_047,chinese in Whitefield,5,1,click,1783733081
+313,user_028,margherita pizza,2,1,click,1783108624
+314,user_003,pure veg thali in koramangala under 300,1,5,click,1784582262
+315,user_029,Biryani food,7,3,order,1783155729
+316,user_035,family biryani bucket,4,2,click,1783567709
+317,user_034,pure veg biryani in koramangala under 200,4,1,click,1782914495
+318,user_044,pure veg biryani in koramangala under 300,4,1,order,1783782417
+319,user_010,Italian food,2,1,click,1784577559
+320,user_016,schezwan hakka noodles,5,1,click,1784691646
+321,user_004,thali without garlic,1,1,order,1784660280
+322,user_049,biryani in Koramangala,1,2,click,1784932629
+323,user_047,biryani in HSR Layout,4,2,click,1784084828
+324,user_034,family biryani bucket,4,1,add_to_cart,1783074811
+325,user_048,north indan thali,7,4,order,1783015783
+326,user_043,hot spicy mutton,4,2,order,1784531500
+327,user_012,Desserts dishes,8,2,click,1783764300
+328,user_010,desserts without sugar,8,2,order,1784566097
+329,user_025,south indian under 250,7,1,add_to_cart,1783150782
+330,user_006,Desserts food,8,1,click,1783945146
+331,user_039,indiranagar chinese,5,1,click,1785283641
+332,user_014,sweet dessert,8,2,add_to_cart,1782883451
+333,user_048,chinese under 400,5,1,click,1785354180
+334,user_016,pure veg pizza in koramangala under 200,2,1,order,1784774733
+335,user_020,Fast Food food,6,1,order,1783232729
+336,user_031,dosa without potato,7,1,click,1784373986
+337,user_037,margherita pizza,3,3,click,1783912902
+338,user_038,peri peri fry,6,2,click,1783642024
+339,user_037,Biryani food,3,1,add_to_cart,1783898443
+340,user_047,pure veg pizza in indiranagar under 300,2,1,order,1783524760
+341,user_011,Italian dishes,2,1,click,1785093023
+342,user_034,garlic naan,1,1,click,1782845912
+343,user_015,authentic hyderabadi taste,3,1,click,1783736513
+344,user_004,Desserts restaurant,8,1,order,1782885120
+345,user_002,mutton dum biryani,4,1,add_to_cart,1782891038
+346,user_044,noodles without eggs,5,2,click,1783223106
+347,user_013,burger in HSR Layout,6,2,add_to_cart,1783940378
+348,user_024,veg food under 150,8,1,click,1783766450
+349,user_042,veg food under 150,1,1,click,1784518997
+350,user_031,noddles chinese,5,2,click,1783165947
+351,user_042,pure veg thali in koramangala under 250,1,1,click,1783782847
+352,user_037,pizza without chicken,2,3,click,1783995106
+353,user_043,hyderabdi biryani,3,2,click,1783688021
+354,user_046,Olio Pizza,2,1,add_to_cart,1783500502
+355,user_025,shezwan hakka noodles,5,1,order,1783406132
+356,user_047,biryani without mutton,3,2,click,1783228860
+357,user_022,cold coffee,6,1,add_to_cart,1782943396
+358,user_032,pure veg biryani in indiranagar under 250,4,2,order,1783598177
+359,user_025,family biryani bucket,4,4,click,1783127446
+360,user_041,biryani without chicken,4,2,add_to_cart,1784332023
+361,user_020,chicken tikka pizza,2,1,click,1783374911
+362,user_036,dosa south indian,7,2,click,1783195025
+363,user_039,chinese under 150,5,1,order,1782870897
+364,user_050,Biryani dishes,3,1,click,1784416042
+365,user_020,dosa in Jayanagar,7,4,click,1783520455
+366,user_020,pure veg pizza in indiranagar under 200,2,1,add_to_cart,1783874842
+367,user_041,dosa without potato,7,5,order,1783267811
+368,user_026,chicken tikka pizza,2,4,add_to_cart,1784665565
+369,user_039,light south indian breakfast,7,1,click,1784828249
+370,user_021,pure veg pizza in koramangala under 200,2,1,click,1784186002
+371,user_024,pure veg biryani in koramangala under 200,4,1,click,1785126420
+372,user_014,desserts without sugar,8,1,click,1784535201
+373,user_041,veg food under 300,1,1,click,1784593864
+374,user_029,gulab jamun,8,2,order,1785060436
+375,user_027,pizza without chicken,2,1,click,1783277865
+376,user_043,rich creamy paneer,1,1,order,1784209954
+377,user_007,pure veg pizza in koramangala under 250,2,3,click,1784961068
+378,user_038,dosa south indian,7,1,order,1784388308
+379,user_044,CTR Shri Sagar,7,3,add_to_cart,1782922160
+380,user_027,biryani in Whitefield,2,1,click,1783413365
+381,user_030,Chinese dishes,5,1,add_to_cart,1784816307
+382,user_021,pure veg biryani in indiranagar under 250,4,2,click,1782913865
+383,user_007,bengali sweets special,8,2,click,1784983372
+384,user_022,veg food under 350,1,3,click,1784518029
+385,user_041,pizza under 400,2,2,click,1785394888
+386,user_038,pure veg biryani in indiranagar under 250,4,3,click,1783682259
+387,user_005,thali without garlic,1,1,add_to_cart,1784186416
+388,user_017,south indian under 200,7,1,add_to_cart,1785323014
+389,user_038,pure veg biryani in koramangala under 200,4,2,order,1785408543
+390,user_046,refreshing cold dessert,8,3,click,1784132733
+391,user_008,chinese in Whitefield,5,5,order,1784573358
+392,user_025,margherita pisa,2,1,click,1785146609
+393,user_009,burger in BTM Layout,6,1,click,1784325056
+394,user_009,pure veg biryani in indiranagar under 300,4,3,order,1784535170
+395,user_046,pure veg biryani in indiranagar under 200,4,1,click,1783165882
+396,user_015,Empire Restaurant,4,4,click,1785074030
+397,user_030,Koramangala Punjab Grill,1,3,click,1785221273
+398,user_035,KC Das Sweets,8,1,click,1784670362
+399,user_007,pure veg thali in indiranagar under 200,1,2,add_to_cart,1782954321
+400,user_006,Italian restaurant,2,2,click,1783699429
+401,user_045,steamed idly,7,1,click,1785403462
+402,user_014,pizza under 500,2,4,add_to_cart,1785322539
+403,user_046,South Indian food,7,1,click,1783387838
+404,user_004,pure veg thali in hsr layout under 200,3,3,click,1783866359
+405,user_016,South Indian food,7,1,order,1783415448
+406,user_041,dosa in Jayanagar,7,4,click,1783209604
+407,user_018,Punjab Grill,1,1,order,1784866143
+408,user_050,paneer butter masala,1,1,order,1784321632
+409,user_026,chiken biryani,3,4,click,1784894121
+410,user_022,dosa in BTM Layout,7,1,order,1784260885
+411,user_004,Mainland China,5,1,click,1783340225
+412,user_029,veg food under 350,1,4,click,1783372420
+413,user_011,burger in Whitefield,5,4,click,1784330912
+414,user_043,Desserts restaurant,3,2,click,1784481514
+415,user_045,fried rice without pork,5,2,click,1783218366
+416,user_038,chinese under 250,5,1,click,1782852953
+417,user_028,veg food under 250,1,1,click,1783779409
+418,user_007,burger without mayo,6,1,add_to_cart,1783394298
+419,user_009,Olio Pizza,2,2,click,1785044249
+420,user_042,spicy noodles,5,2,click,1783454046
+421,user_044,sweet dessert platter,8,3,click,1783240518
+422,user_038,biryani under 250,3,3,order,1784138260
+423,user_018,biryani in Indiranagar,4,1,add_to_cart,1782931646
+424,user_020,rich creamy paneer,1,1,order,1784058730
+425,user_032,burger in HSR Layout,6,1,order,1785310259
+426,user_024,mutton dum biryani,3,1,order,1785203097
+427,user_044,paner butter masala,1,1,click,1782889137
+428,user_017,mutton dum biryani,4,3,order,1784944015
+429,user_033,biryani without chicken,4,1,order,1783164864
+430,user_040,pisa under 300,2,1,add_to_cart,1783150577
+431,user_010,pizza under 500,2,1,click,1784120082
+432,user_016,curry without dairy,1,2,order,1783305619
+433,user_004,indial thali veg,1,2,click,1782872257
+434,user_001,burger without onion,6,1,add_to_cart,1783519430
+435,user_050,Punjab Grill,2,1,click,1784224275
+436,user_034,burger in Jayanagar,6,2,order,1784728374
+437,user_032,dal makhani,3,1,add_to_cart,1783478942
+438,user_037,biryani under 200,3,3,click,1784953303
+439,user_016,mutton dum biryani,4,2,order,1783448637
+440,user_036,steamed idli sambar,7,1,click,1784168872
+441,user_021,dosa without potato,7,1,add_to_cart,1783319940
+442,user_012,mishti doi,8,5,order,1783108235
+443,user_050,dosa in BTM Layout,7,1,click,1785138970
+444,user_013,Desserts food,8,1,click,1784764986
+445,user_050,pure veg thali in indiranagar under 300,1,3,click,1782845887
+446,user_015,masala dosa,7,4,add_to_cart,1782825269
+447,user_048,Desserts dishes,8,5,click,1785041340
+448,user_032,pure veg pizza in indiranagar under 200,3,2,add_to_cart,1783209319
+449,user_027,pure veg biryani in indiranagar under 400,4,1,order,1783175243
+450,user_009,pure veg thali in koramangala under 400,1,1,click,1785301727
+451,user_043,pure veg thali in koramangala under 250,4,3,add_to_cart,1783913812
+452,user_045,pure veg biryani in koramangala under 200,4,2,add_to_cart,1784718141
+453,user_013,cold coffee,6,1,click,1783262297
+454,user_021,pure veg pizza in koramangala under 300,2,4,click,1784714614
+455,user_008,biryani in Jayanagar,4,1,click,1783720999
+456,user_010,South Indian restaurant,7,1,add_to_cart,1784481106
+457,user_020,hearty thali meal,1,1,click,1784515280
+458,user_048,dosa south indian,7,1,order,1783246567
+459,user_008,veg food under 300,1,1,click,1783650167
+460,user_044,Desserts restaurant,8,1,add_to_cart,1783133656
+461,user_009,pure veg pizza in hsr layout under 250,2,1,click,1782998218
+462,user_011,peri peri french fries,7,2,order,1784900041
+463,user_023,south indian under 350,7,2,add_to_cart,1783992932
+464,user_003,chinese under 300,5,2,add_to_cart,1784911640
+465,user_031,chese burger,6,5,order,1783394746
+466,user_034,hot spicy mutton,4,1,order,1784325362
+467,user_023,pure veg biryani in indiranagar under 300,6,1,order,1783953426
+468,user_039,North Indian dishes,1,3,click,1784797524
+469,user_038,Truffles,3,1,click,1783858724
+470,user_035,dosa in Jayanagar,7,5,click,1785233764
+471,user_023,Biryani dishes,3,1,click,1783811304
+472,user_045,sweets without dairy,8,5,add_to_cart,1785200039
+473,user_013,hyderabdi biryani,3,1,add_to_cart,1783555475
+474,user_004,chinese under 150,5,4,click,1785027222
+475,user_040,South Indian dishes,7,1,add_to_cart,1783563457
+476,user_004,South Indian food,7,5,click,1785026577
+477,user_024,gulab jamun,8,1,click,1784230776
+478,user_011,south indian under 250,7,2,order,1784149920
+479,user_045,sweet dessert,6,5,click,1785289372
+480,user_020,Desserts dishes,8,1,click,1783564499
+481,user_037,burger without onion,6,2,click,1785345738
+482,user_015,spicy noodles,5,2,order,1783409038
+483,user_016,cold coffee,6,1,click,1783191280
+484,user_041,spicy schezwan gravy,5,2,order,1782866933
+485,user_045,biryani in Indiranagar,4,2,click,1782824510
+486,user_011,pure veg pizza in indiranagar under 200,8,4,order,1784292307
+487,user_031,veg food under 200,1,1,click,1784711973
+488,user_002,biryani in Whitefield,4,1,click,1784252784
+489,user_011,Desserts dishes,8,4,add_to_cart,1785310681
+490,user_046,pure veg thali in hsr layout under 300,1,4,order,1783478078
+491,user_027,chinese under 400,5,1,add_to_cart,1784066525
+492,user_026,peri peri french fries,6,2,click,1783047746
+493,user_006,pure veg biryani in koramangala under 250,4,1,click,1783225929
+494,user_006,chinese in BTM Layout,5,1,add_to_cart,1784486235
+495,user_017,family biryani bucket,4,1,click,1784375309
+496,user_012,Desserts food,8,1,order,1784769731
+497,user_037,dosa in Jayanagar,7,2,click,1784261102
+498,user_049,pure veg thali in hsr layout under 200,1,1,order,1785011005
+499,user_044,pisa under 300,8,5,click,1784816725
+500,user_046,pure veg pizza in koramangala under 200,2,5,click,1784702546
+501,user_014,pizza under 350,2,2,click,1784594900
+502,user_041,biryani under 500,3,1,add_to_cart,1783100205
+503,user_021,noddles chinese,8,1,click,1785283609
+504,user_008,pure veg pizza in indiranagar under 200,2,3,click,1783262201
+505,user_019,veg food under 200,6,2,order,1783927006
+506,user_037,pure veg biryani in indiranagar under 300,4,1,click,1783974307
+507,user_039,crispy breakfast,7,4,click,1784479212
+508,user_045,South Indian dishes,7,3,add_to_cart,1784381266
+509,user_020,burger in Whitefield,6,4,click,1783775259
+510,user_029,biryani without rice,3,2,add_to_cart,1784567208
+511,user_013,pizza under 150,2,2,order,1784985500
+512,user_033,dal makhani,1,1,add_to_cart,1784944790
+513,user_034,Koramangala Punjab Grill,1,4,click,1783627645
+514,user_004,biryani under 500,3,3,click,1784330659
+515,user_024,chinese in Jayanagar,5,1,click,1782947328
+516,user_039,pure veg pizza in indiranagar under 300,2,1,add_to_cart,1784263021
+517,user_048,chinese in Indiranagar,5,1,add_to_cart,1782934272
+518,user_037,biryani under 350,3,3,click,1783763325
+519,user_042,dosa in Jayanagar,7,5,click,1784807644
+520,user_012,bengali sweets special,8,1,click,1783877739
+521,user_046,chinese in Whitefield,5,2,order,1784398189
+522,user_017,pure veg thali in indiranagar under 250,1,1,order,1785270653
+523,user_043,pure veg biryani in hsr layout under 400,6,5,add_to_cart,1784071035
+524,user_005,pure veg thali in hsr layout under 300,1,3,add_to_cart,1783980476
+525,user_042,biryani without chicken,4,3,click,1783057267
+526,user_026,fast fud burger,6,1,click,1784905269
+527,user_027,chinese in Indiranagar,5,1,click,1784258483
+528,user_044,dosa in Koramangala,7,1,add_to_cart,1784946969
+529,user_043,chinese under 350,3,1,add_to_cart,1783228513
+530,user_017,thali without rice,1,3,add_to_cart,1783193687
+531,user_048,burger in Koramangala,7,3,add_to_cart,1784378086
+532,user_030,biryani in Whitefield,8,5,click,1785266826
+533,user_005,crispy breakfast,7,5,click,1784419973
+534,user_004,pure veg thali in hsr layout under 200,3,2,click,1783659241
+535,user_030,shezwan hakka noodles,5,2,click,1784864199
+536,user_021,veg food under 400,1,4,order,1783966396
+537,user_011,KC Das Sweets,8,3,order,1783188409
+538,user_041,pure veg thali in koramangala under 250,1,1,order,1784426882
+539,user_024,burger without mayo,6,1,click,1782894282
+540,user_047,rich gravy curry,1,1,add_to_cart,1783359911
+541,user_038,pure veg pizza in koramangala under 400,2,4,click,1784069887
+542,user_047,pure veg pizza in indiranagar under 250,2,2,order,1783380290
+543,user_023,pure veg pizza in indiranagar under 300,2,1,order,1782899351
+544,user_009,curry without dairy,1,2,click,1783335715
+545,user_003,light south indian breakfast,7,2,click,1785310235
+546,user_007,family biryani bucket,3,1,click,1783304794
+547,user_008,Biryani food,3,1,click,1783681045
+548,user_001,authentic hyderabadi taste,3,2,add_to_cart,1785359351
+549,user_007,pure veg pizza in indiranagar under 200,2,1,add_to_cart,1783297340
+550,user_013,pure veg biryani in koramangala under 400,4,3,click,1784320369
+551,user_011,biryani in Whitefield,4,1,click,1784835187
+552,user_001,paneer butter masala,1,3,order,1783444694
+553,user_033,Koramangala Punjab Grill,1,2,add_to_cart,1783788693
+554,user_017,biryani in Whitefield,4,2,click,1782984579
+555,user_044,Fast Food restaurant,6,3,click,1783011609
+556,user_011,bengali sweets special,8,1,add_to_cart,1783209003
+557,user_012,Chinese dishes,5,1,order,1783959287
+558,user_031,biryani without mutton,3,1,click,1783374930
+559,user_011,garlic naan,1,2,order,1783579398
+560,user_023,Koramangala Punjab Grill,1,2,order,1784866472
+561,user_029,pure veg thali in hsr layout under 200,1,2,add_to_cart,1782870979
+562,user_034,hearty thali meal,1,1,add_to_cart,1784996398
+563,user_040,burger without onion,6,1,order,1784269315
+564,user_025,hot spicy mutton,4,1,click,1783477338
+565,user_032,pure veg thali in koramangala under 300,2,1,order,1784163972
+566,user_004,biryani in BTM Layout,4,2,order,1783804798
+567,user_029,mutton dum biryany,4,1,order,1784144795
+568,user_048,pure veg biryani in koramangala under 400,4,1,order,1784548610
+569,user_039,chinese under 150,5,4,click,1784732611
+570,user_004,Fast Food dishes,6,1,add_to_cart,1785168579
+571,user_031,fast fud burger,6,1,order,1783297385
+572,user_022,paneer butter masala,1,3,add_to_cart,1783265084
+573,user_046,veg food under 300,1,1,click,1783885703
+574,user_008,chinese under 400,7,2,click,1784736126
+575,user_046,chinese under 400,5,3,click,1785288789
+576,user_030,pure veg biryani in indiranagar under 250,4,4,order,1782837330
+577,user_036,peri peri french fries,8,1,click,1785245769
+578,user_007,pizza under 250,2,4,order,1784575144
+579,user_049,pizza without chicken,2,1,add_to_cart,1784052990
+580,user_009,south indian under 250,7,1,add_to_cart,1785141026
+581,user_014,biryani under 500,3,1,add_to_cart,1783375602
+582,user_012,light south indian breakfast,7,5,click,1784296529
+583,user_037,peri peri fry,7,1,add_to_cart,1784590753
+584,user_007,pure veg biryani in indiranagar under 400,4,1,click,1783056554
+585,user_011,Olio Pizza,5,2,click,1783079321
+586,user_014,biryani in Whitefield,4,1,add_to_cart,1784717455
+587,user_048,refreshing cold dessert,8,1,order,1783815684
+588,user_019,noodles without eggs,5,1,order,1784444659
+589,user_021,authentic sourdough crust,1,1,click,1783873338
+590,user_029,Koramangala Punjab Grill,1,1,click,1783630725
+591,user_044,veg food under 400,1,1,click,1784401221
+592,user_009,biryani in Jayanagar,4,2,click,1784205617
+593,user_003,south indian under 300,7,1,click,1785401186
+594,user_032,burger in Whitefield,6,1,click,1784152334
+595,user_034,pizza under 400,2,4,order,1785096980
+596,user_023,chinese under 150,5,1,add_to_cart,1784207730
+597,user_049,biryani in Koramangala,4,2,click,1783300315
+598,user_016,pure veg thali in hsr layout under 250,4,1,click,1784165244
+599,user_025,south indian under 200,7,1,click,1784987037
+600,user_033,Desserts restaurant,8,1,order,1783003064
+601,user_013,light south indian breakfast,7,1,click,1783521241
+602,user_035,CTR Shri Sagar,7,1,click,1783713258
+603,user_007,pure veg thali in indiranagar under 200,1,1,click,1783464030
+604,user_006,steamed idli sambar,7,1,add_to_cart,1785159911
+605,user_027,chinese in Indiranagar,5,1,order,1784146232
+606,user_001,chiken biryani,3,1,click,1783123599
+607,user_007,pure veg pizza in koramangala under 400,2,1,click,1783999906
+608,user_025,pure veg biryani in hsr layout under 250,4,1,order,1783474805
+609,user_048,south indian under 250,7,1,click,1784069276
+610,user_042,curry without dairy,1,2,click,1783336022
+611,user_035,pure veg biryani in koramangala under 200,4,1,add_to_cart,1783700162
+612,user_023,fried rice without pork,5,3,click,1783590858
+613,user_013,dosa in Indiranagar,7,2,order,1785124597
+614,user_007,dosa in Indiranagar,7,1,add_to_cart,1784317083
+615,user_016,crunchy french fries,6,3,click,1784152027
+616,user_040,South Indian dishes,7,4,add_to_cart,1784145934
+617,user_001,chinese under 350,5,1,order,1783979616
+618,user_044,south indian under 250,7,1,order,1784687103
+619,user_032,chinese in Whitefield,5,3,click,1783996125
+620,user_035,veg food under 300,1,2,click,1782897278
+621,user_002,authentic hyderabadi taste,3,1,click,1782972884
+622,user_035,paner butter masala,1,1,add_to_cart,1784465394
+623,user_038,CTR Shri Sagar,7,1,click,1784768234
+624,user_026,chinese under 150,5,1,click,1785394590
+625,user_033,Meghana Foods,3,2,click,1785194611
+626,user_010,rich creamy paneer,1,1,add_to_cart,1782988670
+627,user_015,pure veg biryani in indiranagar under 300,4,1,click,1782998688
+628,user_024,pure veg thali in hsr layout under 400,1,2,click,1782986509
+629,user_007,South Indian food,7,1,add_to_cart,1785246093
+630,user_025,south indian under 350,7,1,click,1784986178
+631,user_034,burger in Koramangala,6,2,order,1784841253
+632,user_033,chicken tikka pizza,8,4,click,1783783788
+633,user_010,south indian under 500,7,1,click,1783785279
+634,user_047,South Indian dishes,7,1,order,1783702893
+635,user_027,bengali sweets special,8,1,click,1785224513
+636,user_041,south indian under 250,7,1,click,1783516823
+637,user_034,biryani under 400,1,1,add_to_cart,1783178792
+638,user_031,indial thali veg,3,1,click,1784542018
+639,user_050,peri peri fry,6,1,click,1784256404
+640,user_038,bengali sweet,8,1,order,1783373679
+641,user_034,biryani under 500,7,1,click,1785358834
+642,user_039,sweet dessert platter,8,1,click,1784841802
+643,user_035,indiranagar chinese,5,1,order,1784372612
+644,user_034,noodles without eggs,5,1,order,1784289315
+645,user_049,thali without rice,1,1,order,1783380683
+646,user_015,Truffles,2,4,add_to_cart,1785328556
+647,user_017,pure veg pizza in hsr layout under 200,2,2,click,1784999176
+648,user_021,biryani without mutton,3,2,click,1784606210
+649,user_017,dosa in Indiranagar,7,3,add_to_cart,1785385550
+650,user_026,classic woodfired pizza,2,1,order,1783568741
+651,user_031,dosa south indian,7,1,add_to_cart,1784489014
+652,user_008,rich creamy paneer,1,1,click,1783239736
+653,user_022,pure veg thali in koramangala under 200,1,2,click,1784451156
+654,user_006,chicken tikka pizza,2,2,order,1783188825
+655,user_039,veg food under 150,1,1,order,1785394295
+656,user_046,burger in BTM Layout,1,1,click,1784892668
+657,user_043,biryani under 500,5,1,click,1782960104
+658,user_034,pure veg biryani in hsr layout under 400,4,1,click,1784327995
+659,user_011,paneer butter masala,1,2,order,1784300261
+660,user_038,pure veg biryani in hsr layout under 200,4,2,click,1783197320
+661,user_036,fried rice without pork,6,1,add_to_cart,1783978894
+662,user_030,south indian under 400,1,5,add_to_cart,1783553286
+663,user_036,pizza under 200,2,2,add_to_cart,1783309908
+664,user_035,burger in Indiranagar,6,1,order,1784400726
+665,user_016,CTR Shri Sagar,7,1,order,1785280465
+666,user_008,pure veg thali in hsr layout under 300,1,1,click,1783783533
+667,user_023,pure veg thali in hsr layout under 200,1,1,add_to_cart,1783860404
+668,user_044,pure veg thali in koramangala under 200,1,1,click,1785145094
+669,user_021,pure veg biryani in hsr layout under 300,4,1,click,1783616757
+670,user_016,biryani under 500,3,1,click,1783780503
+671,user_040,biryani in Indiranagar,4,1,click,1783148337
+672,user_032,family biryani bucket,3,4,order,1784376048
+673,user_037,pure veg thali in indiranagar under 300,8,1,click,1784962986
+674,user_049,dosa in Koramangala,7,1,order,1784825356
+675,user_033,chicken dum biryani,3,1,order,1783323997
+676,user_021,pure veg thali in indiranagar under 250,1,5,click,1784410573
+677,user_024,South Indian restaurant,7,1,click,1785119978
+678,user_031,dosa in Jayanagar,6,1,add_to_cart,1783590526
+679,user_027,chinese under 500,5,5,add_to_cart,1784499344
+680,user_037,biryani under 400,3,3,click,1783951385
+681,user_028,dosa south indian,4,3,click,1783446387
+682,user_012,hyderabadi chicken biryani,3,1,add_to_cart,1784860170
+683,user_037,sweet dessert,8,1,click,1783070947
+684,user_031,burger in Indiranagar,6,2,order,1784222788
+685,user_036,Fast Food restaurant,6,4,add_to_cart,1782902332
+686,user_044,Italian restaurant,4,2,click,1784012872
+687,user_033,refreshing cold dessert,8,2,click,1784417464
+688,user_041,pure veg biryani in koramangala under 300,3,1,add_to_cart,1784588363
+689,user_026,mutton dum biryany,4,2,click,1783498612
+690,user_021,North Indian restaurant,1,1,order,1783956833
+691,user_024,Koramangala Punjab Grill,1,1,order,1783520920
+692,user_009,veg cheese burger,6,1,click,1783702337
+693,user_007,biryani under 200,3,1,click,1782929719
+694,user_049,pure veg pizza in indiranagar under 400,2,1,add_to_cart,1783470404
+695,user_020,Biryani dishes,3,1,order,1783349346
+696,user_002,chinese under 350,5,2,add_to_cart,1784816274
+697,user_018,biryany in hsr,3,1,click,1785297261
+698,user_048,authentic hyderabadi taste,3,2,add_to_cart,1784275266
+699,user_006,chinese in Koramangala,5,1,order,1783908846
+700,user_001,hyderabadi chicken biryani,3,1,add_to_cart,1784021905
+701,user_045,hyderabadi chicken biryani,8,1,add_to_cart,1782857441
+702,user_039,chinese in BTM Layout,5,1,add_to_cart,1783610061
+703,user_028,sweet dessert,8,1,order,1784406085
+704,user_028,veg food under 150,1,1,add_to_cart,1785050272
+705,user_013,pure veg thali in hsr layout under 200,3,1,click,1784033787
+706,user_040,pure veg pizza in indiranagar under 250,2,5,click,1784164014
+707,user_007,pizza under 400,2,1,order,1782853547
+708,user_001,chinese under 300,5,3,order,1784125984
+709,user_024,pure veg biryani in koramangala under 400,4,1,add_to_cart,1783155617
+710,user_004,pizza under 300,2,2,click,1785097449
+711,user_017,south indian under 400,7,2,click,1783863360
+712,user_016,pure veg pizza in hsr layout under 250,2,2,click,1784752017
+713,user_034,south indian under 150,7,1,order,1784451236
+714,user_021,North Indian food,1,1,click,1783881607
+715,user_013,dosa in Whitefield,7,1,click,1783292793
+716,user_021,pure veg thali in koramangala under 250,1,4,click,1784479277
+717,user_003,hyderabadi chicken biryani,3,3,click,1784376895
+718,user_011,biryani in Indiranagar,4,5,click,1783069852
+719,user_045,south indian under 300,7,1,click,1784865298
+720,user_042,dosa south indian,7,2,click,1782908697
+721,user_047,Fast Food food,6,4,order,1784654145
+722,user_045,biryany in hsr,3,1,add_to_cart,1784176752
+723,user_039,chinese in Jayanagar,3,1,click,1785046888
+724,user_017,biryani in Whitefield,4,2,click,1784941277
+725,user_002,pizza under 400,2,2,click,1784164225
+726,user_035,rich creamy paneer,1,3,order,1785132160
+727,user_021,dosa in BTM Layout,7,1,click,1783222865
+728,user_003,spring rolls,5,3,click,1782950308
+729,user_013,pure veg biryani in indiranagar under 300,4,1,order,1785024591
+730,user_017,north indan thali,1,1,click,1782874024
+731,user_042,chinese under 500,5,1,order,1783073732
+732,user_027,biryani without rice,3,3,add_to_cart,1785038011
+733,user_034,biryani in Koramangala,4,2,order,1783613791
+734,user_016,rich creamy paneer,1,1,order,1783261695
+735,user_023,margherita pisa,2,1,click,1783518785
+736,user_026,chese burger,6,3,order,1784296891
+737,user_021,chese burger,6,1,order,1784175788
+738,user_035,hyderabdi biryani,3,3,add_to_cart,1784716654
+739,user_001,pure veg pizza in koramangala under 200,2,1,click,1784990148
+740,user_001,burger in Whitefield,6,1,click,1784139942
+741,user_018,biryani without mutton,3,1,click,1782977414
+742,user_009,south indian under 300,7,1,click,1783893901
+743,user_037,chinese under 150,5,2,click,1784180994
+744,user_032,south indian under 350,7,1,add_to_cart,1782975884
+745,user_025,margherita pisa,2,1,add_to_cart,1784278462
+746,user_027,pure veg thali in koramangala under 250,2,4,click,1785345373
+747,user_050,quick bite burger,6,1,add_to_cart,1785018560
+748,user_021,chinese under 300,5,1,click,1783031032
+749,user_029,pure veg biryani in koramangala under 200,4,4,click,1784630806
+750,user_010,pure veg biryani in koramangala under 200,4,2,order,1785215932
+751,user_026,chese burger,6,1,order,1783365970
+752,user_036,pure veg thali in hsr layout under 300,1,4,click,1785172844
+753,user_034,sweets without dairy,8,2,add_to_cart,1784622963
+754,user_006,margherita pisa,2,1,order,1784351180
+755,user_023,South Indian food,7,1,add_to_cart,1783529045
+756,user_029,sweet dessert platter,8,3,click,1783798463
+757,user_010,Desserts restaurant,8,2,click,1783047886
+758,user_010,crispy breakfast,5,1,click,1784258921
+759,user_020,chinese under 200,5,4,add_to_cart,1783695786
+760,user_014,south indian under 500,7,3,order,1783411991
+761,user_002,spicy schezwan gravy,5,1,add_to_cart,1783533509
+762,user_040,noodles without eggs,5,1,click,1783098468
+763,user_043,burger in Jayanagar,6,1,click,1782899157
+764,user_025,light south indian breakfast,7,2,click,1784142255
+765,user_035,bengali sweet,8,1,order,1785170830
+766,user_003,veg cheese burger,6,2,add_to_cart,1784874064
+767,user_002,veg food under 350,1,2,add_to_cart,1784087185
+768,user_018,pure veg pizza in koramangala under 400,2,3,order,1782942725
+769,user_015,biryani in BTM Layout,4,1,click,1783187375
+770,user_044,pure veg biryani in indiranagar under 400,4,3,order,1783827283
+771,user_020,pure veg biryani in koramangala under 250,6,1,order,1785093430
+772,user_009,crunchy french fries,6,3,click,1784115170
+773,user_009,pure veg pizza in indiranagar under 400,2,1,click,1784150812
+774,user_008,dosa without potato,7,1,click,1784155809
+775,user_027,pure veg thali in hsr layout under 200,1,3,click,1783607387
+776,user_002,pizza under 400,2,1,click,1785320455
+777,user_002,authentic sourdough crust,2,1,click,1784926039
+778,user_046,pure veg thali in koramangala under 300,1,2,order,1784880409
+779,user_013,biryani under 350,3,2,click,1783951006
+780,user_048,dosa in Koramangala,7,2,click,1783096532
+781,user_040,pure veg biryani in hsr layout under 250,4,2,order,1783854223
+782,user_003,KC Das Sweets,8,1,add_to_cart,1784472324
+783,user_037,biryani without rice,3,1,click,1784713324
+784,user_016,chicken fried rice,5,1,click,1785158304
+785,user_041,Mainland China,4,1,add_to_cart,1784662759
+786,user_050,burger in Whitefield,6,4,click,1784591071
+787,user_045,mishti doi,8,2,order,1784713696
+788,user_050,biryani under 400,3,1,order,1784553730
+789,user_012,masala dosa,7,1,order,1783197377
+790,user_042,pizza without chicken,3,4,click,1783201620
+791,user_041,pure veg biryani in indiranagar under 250,4,1,click,1784407430
+792,user_050,margherita pizza,2,2,click,1783499134
+793,user_050,veg food under 400,1,1,add_to_cart,1784117350
+794,user_019,pure veg thali in hsr layout under 250,1,2,click,1783669958
+795,user_030,mutton dum biryani,4,1,click,1785369206
+796,user_014,dosa in HSR Layout,7,3,order,1784539436
+797,user_039,fast fud burger,6,4,click,1783024317
+798,user_042,dal makhani,1,2,click,1785243833
+799,user_022,dosa in Whitefield,1,2,click,1784567981
+800,user_044,biryani under 350,3,4,order,1785247497
+801,user_006,steamed idli sambar,7,2,add_to_cart,1784408523
+802,user_028,Empire Restaurant,4,1,add_to_cart,1784793885
+803,user_018,pizza without chicken,2,2,click,1783695960
+804,user_037,pizza under 200,2,2,order,1785355759
+805,user_019,thali without garlic,1,1,add_to_cart,1785022787
+806,user_023,cheesy meal,8,2,order,1784884850
+807,user_015,spicy noodles,5,4,click,1783314933
+808,user_048,veg food under 250,1,4,order,1783009945
+809,user_041,sweet dessert,8,1,add_to_cart,1783886241
+810,user_020,chinese in Whitefield,5,1,click,1783296602
+811,user_026,Chinese dishes,5,5,click,1783632897
+812,user_044,Chinese restaurant,5,3,click,1783388530
+813,user_030,rich gravy curry,6,1,order,1784555381
+814,user_034,dal makhani,1,4,click,1783692653
+815,user_023,South Indian dishes,7,3,add_to_cart,1782949886
+816,user_041,Desserts dishes,8,1,order,1783605061
+817,user_020,Olio Pizza,2,2,click,1783957879
+818,user_016,pure veg biryani in koramangala under 400,4,1,click,1785021567
+819,user_024,chinese under 200,5,1,click,1784680460
+820,user_033,pure veg thali in hsr layout under 300,1,1,order,1785015391
+821,user_010,South Indian restaurant,7,3,click,1783679754
+822,user_025,pure veg thali in indiranagar under 250,1,1,click,1784123487
+823,user_039,authentic sourdough crust,6,1,order,1783012661
+824,user_043,Truffles,6,1,add_to_cart,1783699293
+825,user_019,south indian under 400,7,1,order,1783312600
+826,user_018,veg food under 350,1,4,click,1785094667
+827,user_018,North Indian dishes,1,1,click,1783537516
+828,user_035,Chinese restaurant,5,1,click,1784793545
+829,user_007,peri peri french fries,6,2,order,1784462955
+830,user_038,bengali sweet,8,1,add_to_cart,1784129608
+831,user_046,veg food under 500,1,1,order,1785200617
+832,user_030,noodles without eggs,5,1,order,1784792749
+833,user_010,burger in Koramangala,5,1,add_to_cart,1784463626
+834,user_022,loaded pizza slice,2,1,order,1784863888
+835,user_031,Italian restaurant,2,1,add_to_cart,1784281336
+836,user_033,pizza under 250,2,1,add_to_cart,1785151798
+837,user_035,burger in Whitefield,6,4,click,1783841251
+838,user_025,pure veg thali in hsr layout under 300,1,1,order,1784645142
+839,user_035,Chinese dishes,5,2,click,1785227457
+840,user_038,south indian under 200,7,2,click,1784686509
+841,user_005,pure veg biryani in hsr layout under 200,4,1,add_to_cart,1784892361
+842,user_006,garlic naan,1,2,click,1783434547
+843,user_035,pure veg biryani in indiranagar under 250,4,1,click,1783681744
+844,user_020,North Indian dishes,1,5,order,1784263087
+845,user_001,peri peri fry,6,1,click,1784053036
+846,user_001,mishti doi,8,1,click,1784002808
+847,user_028,dosa in HSR Layout,7,1,add_to_cart,1784424673
+848,user_035,pure veg thali in koramangala under 250,1,5,order,1783402434
+849,user_024,Biryani restaurant,3,1,add_to_cart,1783345728
+850,user_042,gulab jamun,8,2,order,1783388621
+851,user_030,pure veg biryani in indiranagar under 200,7,1,click,1784725005
+852,user_029,noddles chinese,5,2,click,1784600759
+853,user_032,margherita pisa,2,1,add_to_cart,1784542315
+854,user_024,margherita pisa,2,4,order,1784365067
+855,user_045,pure veg thali in hsr layout under 300,1,1,order,1784987380
+856,user_016,pizza under 150,2,1,add_to_cart,1785390409
+857,user_001,Koramangala Punjab Grill,1,1,add_to_cart,1784585006
+858,user_019,biryani in Whitefield,4,1,add_to_cart,1783076741
+859,user_011,kesari rasgulla,8,2,click,1784022129
+860,user_033,pizza under 250,2,1,add_to_cart,1783375044
+861,user_017,chinese in Jayanagar,5,3,click,1785301200
+862,user_029,rich creamy paneer,1,1,add_to_cart,1783809814
+863,user_003,pure veg thali in indiranagar under 400,1,1,click,1785317029
+864,user_032,south indian under 300,7,1,order,1783817160
+865,user_041,fried rice without pork,5,1,click,1783928092
+866,user_004,south indian under 200,7,2,order,1784083162
+867,user_035,Olio Pizza,2,1,order,1783920666
+868,user_001,pure veg thali in koramangala under 250,1,1,order,1784143231
+869,user_003,classic woodfired pizza,2,3,order,1785379699
+870,user_022,burger in Jayanagar,6,4,add_to_cart,1785269352
+871,user_044,CTR Shri Sagar,7,1,add_to_cart,1783573762
+872,user_044,hyderabadi chicken biryani,3,1,click,1784544039
+873,user_023,pure veg thali in hsr layout under 250,1,2,add_to_cart,1783628971
+874,user_039,dal makhani,1,1,click,1783322357
+875,user_043,Desserts dishes,8,1,click,1783591992
+876,user_043,pure veg pizza in koramangala under 300,8,1,add_to_cart,1784610035
+877,user_050,loaded pizza slice,2,2,click,1783129503
+878,user_025,garlic naan,1,2,add_to_cart,1783929221
+879,user_032,spring rolls,4,1,order,1783567577
+880,user_010,pizza under 200,2,1,click,1785394298
+881,user_046,pure veg pizza in hsr layout under 250,2,1,click,1783114467
+882,user_050,dosa in Indiranagar,7,2,click,1782822776
+883,user_025,loaded pizza slice,2,1,order,1785229352
+884,user_032,CTR Shri Sagar,7,1,click,1785084601
+885,user_045,Biryani restaurant,3,3,click,1785198330
+886,user_022,Fast Food food,6,1,click,1783199421
+887,user_006,Chinese dishes,5,2,click,1783559927
+888,user_043,Biryani restaurant,3,1,click,1784325987
+889,user_029,authentic hyderabadi taste,3,1,click,1783629026
+890,user_032,burger in HSR Layout,6,1,order,1785058643
+891,user_002,pure veg biryani in indiranagar under 250,4,2,add_to_cart,1782998714
+892,user_042,south indian under 500,7,3,click,1785249089
+893,user_003,gulab jamun,8,3,click,1784795575
+894,user_003,crispy breakfast,7,1,click,1783541601
+895,user_007,chinese in Whitefield,5,2,click,1783265122
+896,user_040,bengali sweet,8,1,order,1784234056
+897,user_044,sweets without dairy,8,1,click,1784167982
+898,user_049,south indian under 500,7,4,add_to_cart,1783084308
+899,user_049,biryani under 300,3,1,click,1784659015
+900,user_003,kesari rasgulla,8,1,click,1782884695
+901,user_001,veg food under 150,1,1,add_to_cart,1784564899
+902,user_031,CTR Shri Sagar,7,1,click,1783955582
+903,user_016,pure veg thali in hsr layout under 200,1,1,click,1784915817
+904,user_041,pizza under 150,2,2,add_to_cart,1784575652
+905,user_034,veg food under 250,6,1,click,1784766200
+906,user_014,rich creamy paneer,1,4,click,1783445000
+907,user_032,pure veg biryani in hsr layout under 300,4,3,click,1784346673

@@ -1,4 +1,5 @@
 import json
+import os
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from search_engine import CATALOG, get_bm25_index, get_searchable_text
@@ -7,8 +8,11 @@ from evaluate import recall_at_k, precision_at_k, mrr, ndcg_at_k
 def run_benchmark():
     print("--- Running Retrieval Method Comparison: BM25 vs. TF-IDF Baseline ---")
     
-    with open("data/evaluation_set.json", "r") as f:
-        eval_queries = json.load(f)
+    eval_path = "data/evaluation_set_v2.json" if os.path.exists("data/evaluation_set_v2.json") else "data/evaluation_set.json"
+    with open(eval_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+        
+    eval_queries = data.get("queries", data) if isinstance(data, dict) else data
         
     corpus = [get_searchable_text(r) for r in CATALOG]
     vectorizer = TfidfVectorizer().fit(corpus)
@@ -46,7 +50,7 @@ def run_benchmark():
     
     markdown_content = (
         "# Retrieval Method Comparison Report\n\n"
-        "Comparative evaluation of retrieval algorithms over 15 hand-curated offline benchmark queries:\n\n"
+        "Comparative evaluation of retrieval algorithms over 200 categorized food search queries (`data/evaluation_set_v2.json`):\n\n"
         "| Retrieval Strategy | Recall@5 | Precision@5 | MRR | NDCG@5 |\n"
         "| :--- | :--- | :--- | :--- | :--- |\n"
         f"| **BM25 Lexical** | **{avg(bm25_recalls):.4f}** | **{avg(bm25_precisions):.4f}** | **{avg(bm25_mrrs):.4f}** | **{avg(bm25_ndcgs):.4f}** |\n"
@@ -56,7 +60,7 @@ def run_benchmark():
     with open("benchmark_results.md", "w") as f:
         f.write(markdown_content)
         
-    print("Benchmark complete. Report saved to benchmark_results.md\n")
+    print(f"Benchmark complete across {len(eval_queries)} queries. Report saved to benchmark_results.md\n")
 
 if __name__ == "__main__":
     run_benchmark()

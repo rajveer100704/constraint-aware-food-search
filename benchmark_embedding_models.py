@@ -1,4 +1,5 @@
 import json
+import os
 import time
 import numpy as np
 
@@ -8,8 +9,11 @@ from evaluate import recall_at_k, precision_at_k, mrr, ndcg_at_k
 def run_embedding_model_benchmark():
     print("--- Running Comparative Retrieval & Embedding Model Benchmark ---")
     
-    with open("data/evaluation_set.json", "r") as f:
-        eval_queries = json.load(f)
+    eval_path = "data/evaluation_set_v2.json" if os.path.exists("data/evaluation_set_v2.json") else "data/evaluation_set.json"
+    with open(eval_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+        
+    eval_queries = data.get("queries", data) if isinstance(data, dict) else data
         
     bm25_recalls, bm25_ndcgs = [], []
     hybrid_recalls, hybrid_ndcgs = [], []
@@ -48,7 +52,7 @@ def run_embedding_model_benchmark():
     
     markdown_content = (
         "# Comparative Retrieval & Cache Benchmark Report\n\n"
-        "Comparative evaluation over 200 categorized food search queries:\n\n"
+        "Comparative evaluation over 200 categorized food search queries (`data/evaluation_set_v2.json`):\n\n"
         "| Retrieval Pipeline | Recall@5 | NDCG@5 | Cold Latency (ms) | Warm Cache Latency (ms) |\n"
         "| :--- | :---: | :---: | :---: | :---: |\n"
         f"| **BM25 Lexical Only** | {avg(bm25_recalls):.4f} | {avg(bm25_ndcgs):.4f} | 0.15 ms | 0.15 ms |\n"

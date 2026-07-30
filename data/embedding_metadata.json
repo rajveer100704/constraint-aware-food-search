@@ -2,7 +2,7 @@
   "model_name": "sentence-transformers/all-MiniLM-L6-v2",
   "embedding_dimension": 384,
   "total_items": 8,
-  "creation_timestamp": "2026-07-30T10:28:14Z",
+  "creation_timestamp": "2026-07-30T11:32:15Z",
   "catalog_checksum": "03061a47c584",
   "embedding_file": "data/restaurant_embeddings_v1.npy"
 }
