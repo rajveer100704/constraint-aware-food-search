@@ -50,9 +50,13 @@ def evaluate_constraint_satisfaction(results: List[Dict[str, Any]], parsed) -> f
     return satisfied / len(results)
 
 def run_evaluation(eval_set_path: str = "data/evaluation_set_v2.json", catalog: List[RestaurantSchema] = CATALOG):
-    print("\n--- Running Evaluation & Performance Profiling (50 Benchmark Queries) ---")
-    with open(eval_set_path, "r") as f:
-        eval_queries = json.load(f)
+    print("\n--- Running Evaluation & Performance Profiling (200 Benchmark Queries) ---")
+    if not os.path.exists(eval_set_path):
+        eval_set_path = "data/evaluation_set.json"
+    with open(eval_set_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    eval_queries = data.get("queries", data) if isinstance(data, dict) else data
 
     recalls, precisions, mrrs, ndcgs, constraint_sats = [], [], [], [], []
     stage_timings = {"parser_ms": [], "filter_ms": [], "bm25_ms": [], "dense_ms": [], "ranking_ms": [], "total_ms": []}

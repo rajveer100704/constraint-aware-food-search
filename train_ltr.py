@@ -50,8 +50,9 @@ def build_ltr_dataset(catalog=None):
     
     eval_path = "data/evaluation_set_v2.json" if os.path.exists("data/evaluation_set_v2.json") else "data/evaluation_set.json"
     with open(eval_path, "r", encoding="utf-8") as f:
-        eval_queries = json.load(f)
+        data = json.load(f)
         
+    eval_queries = data.get("queries", data) if isinstance(data, dict) else data
     training_queries = [q["query"] for q in eval_queries]
 
     X = []
